@@ -1,0 +1,6602 @@
+{
+    "IS 1232 - Flowers of May": [
+        227, 
+        214, 
+        231
+    ], 
+    "IS 1105 - It's A Girl!": [
+        255, 
+        216, 
+        224
+    ], 
+    "IS 1260 - Pretty Posie": [
+        192, 
+        192, 
+        228
+    ], 
+    "IS 1290 - Violet Vibes": [
+        143, 
+        134, 
+        155
+    ], 
+    "IS 0639 - Acapulco Dive": [
+        114, 
+        167, 
+        221
+    ], 
+    "IS 1174 - Little Pinky": [
+        243, 
+        238, 
+        235
+    ], 
+    "IS 1240 - Drifting Dream": [
+        206, 
+        190, 
+        227
+    ], 
+    "IS 1254 - Purple Vision": [
+        166, 
+        157, 
+        200
+    ], 
+    "IS 0383 - Natural Whisper": [
+        238, 
+        232, 
+        208
+    ], 
+    "IS 0889 - Russeau Gold": [
+        232, 
+        214, 
+        178
+    ], 
+    "IS 0088 - Casandra ": [
+        131, 
+        79, 
+        83
+    ], 
+    "IS 0138 - Coconut Macaroon": [
+        218, 
+        204, 
+        195
+    ], 
+    "IS 0066 - Wild Rose": [
+        147, 
+        65, 
+        69
+    ], 
+    "IS 0571 - Terra Pin": [
+        93, 
+        84, 
+        75
+    ], 
+    "IS 0627 - Into the Stratosphere": [
+        79, 
+        92, 
+        111
+    ], 
+    "IS 1015 - Canter Peach": [
+        246, 
+        214, 
+        191
+    ], 
+    "IS 1236 - Sunset Serenade": [
+        97, 
+        76, 
+        107
+    ], 
+    "IS 0141 - Bush Buck": [
+        169, 
+        147, 
+        136
+    ], 
+    "IS 0314 - Trade Secret": [
+        228, 
+        216, 
+        190
+    ], 
+    "IS 0777 - Envy": [
+        224, 
+        231, 
+        177
+    ], 
+    "IS 0941 - Glowing Lantern": [
+        248, 
+        185, 
+        69
+    ], 
+    "IS 0917 - Canyon Sand": [
+        240, 
+        215, 
+        174
+    ], 
+    "IS 0251 - Alchemy": [
+        240, 
+        217, 
+        186
+    ], 
+    "IS 1085 - Tint of Rose": [
+        254, 
+        206, 
+        204
+    ], 
+    "IS 1051 - Stucco Wall": [
+        240, 
+        179, 
+        160
+    ], 
+    "IS 0443 - Serpentine": [
+        101, 
+        101, 
+        89
+    ], 
+    "IS 0862 - Yellow Trumpet": [
+        246, 
+        217, 
+        141
+    ], 
+    "IS 1297 - Royal Proclamation": [
+        173, 
+        163, 
+        190
+    ], 
+    "IS 0786 - Peter Pan": [
+        168, 
+        173, 
+        109
+    ], 
+    "IS 0125 - Pout": [
+        225, 
+        205, 
+        196
+    ], 
+    "IS 0905 - Egyptian Gold": [
+        232, 
+        195, 
+        140
+    ], 
+    "IS 0028 - Bannister White": [
+        224, 
+        224, 
+        216
+    ], 
+    "IS 1210 - French Lavender": [
+        223, 
+        202, 
+        209
+    ], 
+    "IS 1097 - Pale Petunia": [
+        245, 
+        194, 
+        203
+    ], 
+    "IS 0146 - Truffles": [
+        232, 
+        215, 
+        205
+    ], 
+    "IS 0419 - Poseidon's Beard": [
+        218, 
+        214, 
+        202
+    ], 
+    "IS 0919 - Venice Square": [
+        229, 
+        199, 
+        149
+    ], 
+    "IS 0106 - Rare Find": [
+        177, 
+        129, 
+        141
+    ], 
+    "IS 0455 - Favored One": [
+        197, 
+        205, 
+        194
+    ], 
+    "IS 1217 - Velvet Blush": [
+        227, 
+        212, 
+        215
+    ], 
+    "IS 0569 - Fireplace Mantel": [
+        136, 
+        128, 
+        117
+    ], 
+    "IS 0726 - Hidden Jade": [
+        236, 
+        242, 
+        228
+    ], 
+    "IS 0135 - Emerging Leaf": [
+        155, 
+        127, 
+        116
+    ], 
+    "IS 0988 - Mom's Apple Pie": [
+        231, 
+        185, 
+        133
+    ], 
+    "IS 0847 - Yellow Blitz": [
+        251, 
+        242, 
+        185
+    ], 
+    "IS 0375 - African Queen": [
+        107, 
+        101, 
+        77
+    ], 
+    "IS 0238 - Crowned One": [
+        213, 
+        184, 
+        154
+    ], 
+    "IS 1084 - Go Go Pink": [
+        251, 
+        216, 
+        212
+    ], 
+    "IS 0194 - August Moon": [
+        228, 
+        224, 
+        213
+    ], 
+    "IS 0167 - First Date": [
+        229, 
+        209, 
+        185
+    ], 
+    "IS 0805 - Mella Yella": [
+        240, 
+        221, 
+        165
+    ], 
+    "IS 1129 - Punky Pink": [
+        175, 
+        81, 
+        97
+    ], 
+    "IS 1156 - Pink Heath": [
+        242, 
+        188, 
+        224
+    ], 
+    "IS 0837 - Fresh Scent": [
+        240, 
+        196, 
+        48
+    ], 
+    "IS 0783 - Clean Air": [
+        217, 
+        221, 
+        184
+    ], 
+    "IS 0927 - Lemon Poppy": [
+        226, 
+        175, 
+        94
+    ], 
+    "IS 0101 - Fruitful Orchard": [
+        124, 
+        72, 
+        76
+    ], 
+    "IS 1050 - Salmon Beauty": [
+        247, 
+        200, 
+        184
+    ], 
+    "IS 1039 - Pretty Parasol": [
+        174, 
+        103, 
+        75
+    ], 
+    "IS 0656 - Roman White": [
+        223, 
+        237, 
+        237
+    ], 
+    "IS 0675 - Blue Bliss": [
+        1, 
+        150, 
+        172
+    ], 
+    "IS 0864 - Lioness": [
+        225, 
+        177, 
+        79
+    ], 
+    "IS 1012 - Hampton Beach": [
+        163, 
+        104, 
+        72
+    ], 
+    "IS 0605 - Capri Isle": [
+        88, 
+        116, 
+        181
+    ], 
+    "IS 0362 - Pale Quartz ": [
+        241, 
+        233, 
+        220
+    ], 
+    "IS 1010 - Peanut Brittle": [
+        206, 
+        153, 
+        119
+    ], 
+    "IS 0326 - Bambino": [
+        131, 
+        115, 
+        79
+    ], 
+    "IS 0694 - Turkish Teal": [
+        124, 
+        204, 
+        193
+    ], 
+    "IS 0004 - Child of Heaven": [
+        239, 
+        235, 
+        224
+    ], 
+    "IS 1090 - Tartlet ": [
+        248, 
+        219, 
+        215
+    ], 
+    "IS 0913 - Angel Food Cake": [
+        217, 
+        165, 
+        89
+    ], 
+    "IS 1258 - Sweet Flower": [
+        227, 
+        227, 
+        237
+    ], 
+    "IS 1155 - Little Smile": [
+        243, 
+        205, 
+        230
+    ], 
+    "IS 1201 - Dreamy Heaven": [
+        98, 
+        77, 
+        96
+    ], 
+    "IS 1255 - Purple Haze": [
+        161, 
+        152, 
+        197
+    ], 
+    "IS 0677 - Eastern Wind": [
+        207, 
+        238, 
+        233
+    ], 
+    "IS 0507 - Deep Lagoon": [
+        105, 
+        115, 
+        124
+    ], 
+    "IS 0292 - Privileged": [
+        242, 
+        235, 
+        217
+    ], 
+    "IS 0803 - Perky Tint": [
+        249, 
+        243, 
+        211
+    ], 
+    "IS 0195 - Mossy Shade": [
+        219, 
+        210, 
+        201
+    ], 
+    "IS 0258 - Classic Terra": [
+        228, 
+        209, 
+        179
+    ], 
+    "IS 0487 - Deep Space": [
+        79, 
+        93, 
+        93
+    ], 
+    "IS 0556 - Smokescreen": [
+        106, 
+        96, 
+        95
+    ], 
+    "IS 0267 - Season Finale": [
+        192, 
+        167, 
+        127
+    ], 
+    "IS 0745 - Chic Shade": [
+        130, 
+        151, 
+        118
+    ], 
+    "IS 0724 - Wildness Mint": [
+        104, 
+        156, 
+        108
+    ], 
+    "IS 0037 - Money Tree": [
+        203, 
+        153, 
+        130
+    ], 
+    "IS 1096 - The Ego Has Landed": [
+        162, 
+        78, 
+        76
+    ], 
+    "IS 0011 - Sugar Dust": [
+        246, 
+        243, 
+        236
+    ], 
+    "IS 0469 - d": [
+        195, 
+        212, 
+        206
+    ], 
+    "IS 0306 - Saffron Tint": [
+        243, 
+        235, 
+        216
+    ], 
+    "IS 0906 - Cat's Eye Marlbe": [
+        215, 
+        173, 
+        101
+    ], 
+    "IS 1145 - Romeo O Romeo": [
+        166, 
+        60, 
+        74
+    ], 
+    "IS 1052 - Summer Memory": [
+        220, 
+        138, 
+        114
+    ], 
+    "IS 0958 - Holy Grail": [
+        253, 
+        235, 
+        197
+    ], 
+    "IS 0744 - Hidden Glade": [
+        157, 
+        176, 
+        146
+    ], 
+    "IS 0134 - Baby Sprout": [
+        171, 
+        144, 
+        135
+    ], 
+    "IS 0564 - Bad Hair Day": [
+        101, 
+        91, 
+        79
+    ], 
+    "IS 0482 - Powdered Pool": [
+        203, 
+        215, 
+        211
+    ], 
+    "IS 0400 - New Foliage": [
+        197, 
+        190, 
+        148
+    ], 
+    "IS 0385 - Howdy Neighbor": [
+        223, 
+        211, 
+        173
+    ], 
+    "IS 1163 - Tiara Pink": [
+        216, 
+        168, 
+        206
+    ], 
+    "IS 0585 - Oyster Catch": [
+        84, 
+        85, 
+        79
+    ], 
+    "IS 0289 - Prairie Sand": [
+        202, 
+        180, 
+        143
+    ], 
+    "IS 0351 - Mohalla": [
+        170, 
+        159, 
+        131
+    ], 
+    "IS 1231 - Hosta Flower": [
+        235, 
+        224, 
+        232
+    ], 
+    "IS 0352 - Shagbark Olive": [
+        151, 
+        142, 
+        113
+    ], 
+    "IS 1103 - Moonrose": [
+        167, 
+        76, 
+        83
+    ], 
+    "IS 0350 - Helen of Troy": [
+        198, 
+        187, 
+        165
+    ], 
+    "IS 0023 - Shell Tint": [
+        235, 
+        240, 
+        234
+    ], 
+    "IS 0047 - Sand Island": [
+        243, 
+        211, 
+        196
+    ], 
+    "IS 0061 - Pinkathon": [
+        240, 
+        192, 
+        190
+    ], 
+    "IS 0086 - King's Cloak": [
+        197, 
+        139, 
+        151
+    ], 
+    "IS 0808 - Yellow Lupine": [
+        205, 
+        173, 
+        86
+    ], 
+    "IS 0403 - Tropical Twist": [
+        137, 
+        127, 
+        76
+    ], 
+    "IS 1179 - Moonlight Melody": [
+        178, 
+        120, 
+        178
+    ], 
+    "IS 1061 - April Love": [
+        142, 
+        76, 
+        64
+    ], 
+    "IS 0657 - Kyoto": [
+        195, 
+        228, 
+        235
+    ], 
+    "IS 0806 - Sweet Angelica": [
+        231, 
+        210, 
+        145
+    ], 
+    "IS 1133 - Christy's Smile": [
+        242, 
+        190, 
+        203
+    ], 
+    "IS 0252 - October Bounty": [
+        227, 
+        203, 
+        169
+    ], 
+    "IS 0792 - Footie Pajamas": [
+        205, 
+        200, 
+        142
+    ], 
+    "IS 0243 - Frozen Custard": [
+        234, 
+        210, 
+        176
+    ], 
+    "IS 0261 - Tan Hide": [
+        178, 
+        152, 
+        117
+    ], 
+    "IS 1233 - Plum Cake": [
+        209, 
+        193, 
+        220
+    ], 
+    "IS 0610 - Blue Parlor": [
+        143, 
+        174, 
+        220
+    ], 
+    "IS 0902 - Soleil": [
+        246, 
+        224, 
+        187
+    ], 
+    "IS 0695 - Indian Necklace": [
+        82, 
+        182, 
+        172
+    ], 
+    "IS 0296 - Only Yesterday": [
+        203, 
+        181, 
+        144
+    ], 
+    "IS 0700 - Uninhibited": [
+        187, 
+        210, 
+        202
+    ], 
+    "IS 0192 - Dapper": [
+        119, 
+        100, 
+        83
+    ], 
+    "IS 0574 - Shark Fin": [
+        167, 
+        167, 
+        159
+    ], 
+    "IS 0446 - Sealskin Shadow": [
+        233, 
+        235, 
+        230
+    ], 
+    "IS 0753 - Baby Vegetable": [
+        102, 
+        114, 
+        78
+    ], 
+    "IS 0537 - Dove's Wing": [
+        224, 
+        223, 
+        219
+    ], 
+    "IS 0157 - Dodge Pole": [
+        166, 
+        121, 
+        92
+    ], 
+    "IS 0372 - Historic Shade": [
+        177, 
+        171, 
+        149
+    ], 
+    "IS 1034 - Autumn Wind": [
+        247, 
+        210, 
+        184
+    ], 
+    "IS 1213 - Berry Bright": [
+        166, 
+        134, 
+        155
+    ], 
+    "IS 0051 - Caramel Candy": [
+        181, 
+        120, 
+        102
+    ], 
+    "IS 1285 - Jazlyn": [
+        80, 
+        76, 
+        91
+    ], 
+    "IS 1280 - Lilac Luster": [
+        213, 
+        207, 
+        221
+    ], 
+    "IS 0972 - Apple Cider": [
+        251, 
+        221, 
+        187
+    ], 
+    "IS 0969 - Au Gratin": [
+        255, 
+        161, 
+        81
+    ], 
+    "IS 0136 - Amazon Mist": [
+        131, 
+        103, 
+        91
+    ], 
+    "IS 1238 - Fairytale": [
+        231, 
+        218, 
+        235
+    ], 
+    "IS 0344 - Courtyard": [
+        201, 
+        190, 
+        168
+    ], 
+    "IS 0606 - Frozen Blue": [
+        67, 
+        72, 
+        127
+    ], 
+    "IS 0473 - Atlantic Waves": [
+        60, 
+        79, 
+        83
+    ], 
+    "IS 0150 - Temptation": [
+        152, 
+        116, 
+        102
+    ], 
+    "IS 0769 - Earth Happiness": [
+        228, 
+        238, 
+        203
+    ], 
+    "IS 0801 - Rain Slicker": [
+        188, 
+        173, 
+        80
+    ], 
+    "IS 0713 - Mediterranean Mist": [
+        195, 
+        234, 
+        215
+    ], 
+    "IS 0954 - Mac N Cheese": [
+        255, 
+        194, 
+        54
+    ], 
+    "IS 0961 - Gold's Great Touch": [
+        255, 
+        195, 
+        107
+    ], 
+    "IS 0236 - Sunday Gloves": [
+        232, 
+        215, 
+        189
+    ], 
+    "IS 1315 - Chlamatis": [
+        208, 
+        207, 
+        212
+    ], 
+    "IS 1020 - Rapture's Light": [
+        244, 
+        240, 
+        228
+    ], 
+    "IS 0202 - Powder Cake": [
+        223, 
+        215, 
+        204
+    ], 
+    "IS 0681 - Cyan Sky": [
+        44, 
+        184, 
+        185
+    ], 
+    "IS 0120 - Summer's Eve": [
+        171, 
+        118, 
+        112
+    ], 
+    "IS 1049 - Salmon Mousse": [
+        251, 
+        211, 
+        199
+    ], 
+    "IS 0790 - Forest Found": [
+        223, 
+        223, 
+        187
+    ], 
+    "IS 0242 - Rare Happening": [
+        146, 
+        113, 
+        80
+    ], 
+    "IS 0254 - Living Large": [
+        215, 
+        184, 
+        140
+    ], 
+    "IS 0334 - Sedona": [
+        230, 
+        223, 
+        207
+    ], 
+    "IS 0409 - Green Cast": [
+        149, 
+        150, 
+        106
+    ], 
+    "IS 0600 - Melting Glacier": [
+        236, 
+        238, 
+        237
+    ], 
+    "IS 1313 - My Place or Yours": [
+        91, 
+        80, 
+        88
+    ], 
+    "IS 1150 - Pink Beauty": [
+        220, 
+        170, 
+        197
+    ], 
+    "IS 0092 - Fresh Day": [
+        178, 
+        119, 
+        123
+    ], 
+    "IS 0274 - Polished Marble": [
+        208, 
+        191, 
+        161
+    ], 
+    "IS 1251 - Mountain's Majesty": [
+        218, 
+        209, 
+        226
+    ], 
+    "IS 0503 - Water Droplet": [
+        192, 
+        203, 
+        209
+    ], 
+    "IS 1095 - Empower": [
+        177, 
+        82, 
+        80
+    ], 
+    "IS 0568 - Cloudy Today": [
+        171, 
+        162, 
+        153
+    ], 
+    "IS 0748 - Balance": [
+        212, 
+        220, 
+        196
+    ], 
+    "IS 0161 - Tiny Calf": [
+        222, 
+        194, 
+        170
+    ], 
+    "IS 1203 - Etcetera": [
+        225, 
+        201, 
+        214
+    ], 
+    "IS 0992 - Touch of Topaz": [
+        246, 
+        228, 
+        208
+    ], 
+    "IS 0057 - Marble Pink": [
+        209, 
+        134, 
+        128
+    ], 
+    "IS 0145 - Flax Flower": [
+        237, 
+        223, 
+        212
+    ], 
+    "IS 0012 - Bunny Cake": [
+        243, 
+        239, 
+        227
+    ], 
+    "IS 1249 - Purple Spire": [
+        122, 
+        116, 
+        160
+    ], 
+    "IS 0967 - Endearment": [
+        254, 
+        211, 
+        158
+    ], 
+    "IS 0725 - Melbourne": [
+        87, 
+        130, 
+        84
+    ], 
+    "IS 0123 - Monterey Chestnut": [
+        129, 
+        76, 
+        68
+    ], 
+    "IS 1235 - Yolanda": [
+        167, 
+        149, 
+        189
+    ], 
+    "IS 0063 - Impatient Heart": [
+        199, 
+        131, 
+        130
+    ], 
+    "IS 0430 - Vegetarian": [
+        96, 
+        101, 
+        79
+    ], 
+    "IS 0781 - Science Experiment": [
+        150, 
+        165, 
+        62
+    ], 
+    "IS 0070 - O Fortuna": [
+        222, 
+        187, 
+        183
+    ], 
+    "IS 0750 - Whispy Mint": [
+        191, 
+        201, 
+        167
+    ], 
+    "IS 0059 - Quintessential": [
+        144, 
+        87, 
+        80
+    ], 
+    "IS 0865 - Lemon Bar": [
+        209, 
+        166, 
+        64
+    ], 
+    "IS 0546 - Paternoster": [
+        201, 
+        200, 
+        198
+    ], 
+    "IS 0520 - Slate Tint": [
+        129, 
+        133, 
+        144
+    ], 
+    "IS 0232 - Frond": [
+        195, 
+        188, 
+        172
+    ], 
+    "IS 0417 - Aloe Leaf": [
+        104, 
+        108, 
+        75
+    ], 
+    "IS 0866 - Apple Sauce": [
+        243, 
+        235, 
+        212
+    ], 
+    "IS 0470 - Dreaming of the Day": [
+        177, 
+        198, 
+        193
+    ], 
+    "IS 0963 - Zambia": [
+        255, 
+        155, 
+        41
+    ], 
+    "IS 0620 - Star-Studded": [
+        64, 
+        74, 
+        99
+    ], 
+    "IS 1223 - Ostrich Tail": [
+        234, 
+        223, 
+        231
+    ], 
+    "IS 1218 - Odyssey Lilac": [
+        215, 
+        198, 
+        204
+    ], 
+    "IS 0810 - Anabell": [
+        245, 
+        239, 
+        207
+    ], 
+    "IS 1157 - Blossoms in Spring": [
+        230, 
+        158, 
+        204
+    ], 
+    "IS 0325 - Welcome Home": [
+        148, 
+        130, 
+        92
+    ], 
+    "IS 0896 - Coin Purse": [
+        237, 
+        212, 
+        172
+    ], 
+    "IS 0827 - Ray of Light": [
+        250, 
+        239, 
+        185
+    ], 
+    "IS 0477 - Ocean Cruise": [
+        176, 
+        185, 
+        180
+    ], 
+    "IS 0632 - Breath-Taking View": [
+        135, 
+        158, 
+        174
+    ], 
+    "IS 0168 - Candle Light": [
+        220, 
+        194, 
+        169
+    ], 
+    "IS 0405 - Planet Earth": [
+        220, 
+        222, 
+        198
+    ], 
+    "IS 0170 - Blonde Shell": [
+        192, 
+        151, 
+        121
+    ], 
+    "IS 0804 - Sweetie Pie": [
+        243, 
+        229, 
+        184
+    ], 
+    "IS 1083 - Morning Blush": [
+        248, 
+        234, 
+        225
+    ], 
+    "IS 0648 - Happy Tune": [
+        67, 
+        94, 
+        123
+    ], 
+    "IS 0060 - Parlor Rose": [
+        140, 
+        72, 
+        69
+    ], 
+    "IS 0524 - Nomadic Travels": [
+        205, 
+        207, 
+        206
+    ], 
+    "IS 0655 - Queen of the Night": [
+        59, 
+        94, 
+        124
+    ], 
+    "IS 0277 - Golden Freesia": [
+        140, 
+        117, 
+        85
+    ], 
+    "IS 0223 - White Elephant": [
+        226, 
+        219, 
+        201
+    ], 
+    "IS 0561 - Indian Hills": [
+        178, 
+        170, 
+        159
+    ], 
+    "IS 0377 - Montezuma": [
+        214, 
+        208, 
+        186
+    ], 
+    "IS 0531 - Snowglory": [
+        202, 
+        203, 
+        198
+    ], 
+    "IS 0014 - Twill": [
+        239, 
+        231, 
+        212
+    ], 
+    "IS 1005 - Flickering Flame": [
+        169, 
+        115, 
+        79
+    ], 
+    "IS 0495 - Breakwaters": [
+        219, 
+        228, 
+        223
+    ], 
+    "IS 0573 - Chintz": [
+        194, 
+        190, 
+        178
+    ], 
+    "IS 1109 - Party Time": [
+        206, 
+        57, 
+        63
+    ], 
+    "IS 0811 - Martica": [
+        242, 
+        229, 
+        185
+    ], 
+    "IS 1031 - Chickadee": [
+        254, 
+        170, 
+        123
+    ], 
+    "IS 0005 - Kiara": [
+        243, 
+        235, 
+        222
+    ], 
+    "IS 0644 - Dancing in the Rain": [
+        176, 
+        199, 
+        215
+    ], 
+    "IS 0321 - Hephaestes": [
+        225, 
+        214, 
+        184
+    ], 
+    "IS 1115 - Dollie": [
+        238, 
+        146, 
+        161
+    ], 
+    "IS 0215 - Herare White": [
+        231, 
+        223, 
+        212
+    ], 
+    "IS 0109 - Kung Fu": [
+        104, 
+        68, 
+        72
+    ], 
+    "IS 0471 - Miracle Bay": [
+        130, 
+        152, 
+        150
+    ], 
+    "IS 1262 - Bailey Bells": [
+        145, 
+        148, 
+        203
+    ], 
+    "IS 0431 - Clover Patch": [
+        81, 
+        83, 
+        70
+    ], 
+    "IS 0911 - Sunset in Italy": [
+        239, 
+        199, 
+        137
+    ], 
+    "IS 1277 - Regal Azure": [
+        116, 
+        123, 
+        178
+    ], 
+    "IS 0730 - Lucerne": [
+        128, 
+        187, 
+        129
+    ], 
+    "IS 0257 - Shortbread": [
+        235, 
+        219, 
+        193
+    ], 
+    "IS 0566 - Sheepskin": [
+        209, 
+        200, 
+        191
+    ], 
+    "IS 0152 - Flirt": [
+        236, 
+        217, 
+        200
+    ], 
+    "IS 0055 - Strawberry Whip": [
+        248, 
+        215, 
+        206
+    ], 
+    "IS 0683 - Joyful Tears": [
+        0, 
+        108, 
+        111
+    ], 
+    "IS 0416 - Taffeta Sheen": [
+        134, 
+        135, 
+        103
+    ], 
+    "IS 1207 - Orchid Orchestra": [
+        139, 
+        104, 
+        134
+    ], 
+    "IS 0099 - Lover's Tryst": [
+        167, 
+        130, 
+        137
+    ], 
+    "IS 0406 - Home Body": [
+        209, 
+        212, 
+        185
+    ], 
+    "IS 0036 - Fortune's Prize": [
+        218, 
+        171, 
+        151
+    ], 
+    "IS 0095 - Queen's Rose": [
+        125, 
+        70, 
+        73
+    ], 
+    "IS 0596 - Lazy Day": [
+        155, 
+        175, 
+        210
+    ], 
+    "IS 0472 - Micropolis": [
+        97, 
+        117, 
+        115
+    ], 
+    "IS 0085 - Fragrant Sachel": [
+        215, 
+        165, 
+        174
+    ], 
+    "IS 0439 - Numero Uno": [
+        227, 
+        230, 
+        223
+    ], 
+    "IS 1117 - Siren": [
+        161, 
+        60, 
+        64
+    ], 
+    "IS 0593 - Surf's Surprise": [
+        200, 
+        211, 
+        229
+    ], 
+    "IS 0817 - Best of Summer": [
+        248, 
+        242, 
+        220
+    ], 
+    "IS 1250 - True Romance": [
+        88, 
+        78, 
+        112
+    ], 
+    "IS 0690 - Blue Period": [
+        44, 
+        91, 
+        97
+    ], 
+    "IS 0550 - Gargoyle": [
+        101, 
+        90, 
+        86
+    ], 
+    "IS 0200 - Stony Field": [
+        102, 
+        92, 
+        80
+    ], 
+    "IS 0218 - Drifting Sand": [
+        170, 
+        162, 
+        149
+    ], 
+    "IS 0230 - Harrow Gate": [
+        220, 
+        212, 
+        199
+    ], 
+    "IS 0317 - Green Gold": [
+        197, 
+        179, 
+        141
+    ], 
+    "IS 1161 - Nursery Pink": [
+        243, 
+        216, 
+        235
+    ], 
+    "IS 0697 - Arizona Stone": [
+        33, 
+        110, 
+        100
+    ], 
+    "IS 0474 - Raindance": [
+        215, 
+        222, 
+        214
+    ], 
+    "IS 0090 - Moon Goddess": [
+        217, 
+        170, 
+        178
+    ], 
+    "IS 1140 - First Daughter": [
+        245, 
+        210, 
+        216
+    ], 
+    "IS 1151 - Fuscia Fizz": [
+        186, 
+        116, 
+        150
+    ], 
+    "IS 0165 - Cavern Sand": [
+        154, 
+        118, 
+        92
+    ], 
+    "IS 1113 - Fruitbowl": [
+        253, 
+        203, 
+        212
+    ], 
+    "IS 0766 - Gentle Caress": [
+        129, 
+        175, 
+        103
+    ], 
+    "IS 1243 - When Red Met Blue": [
+        96, 
+        79, 
+        123
+    ], 
+    "IS 0083 - Pink Coral": [
+        235, 
+        205, 
+        207
+    ], 
+    "IS 0661 - Charybdis": [
+        56, 
+        166, 
+        203
+    ], 
+    "IS 0229 - Feather Stone": [
+        226, 
+        222, 
+        211
+    ], 
+    "IS 0734 - Vineyard Green": [
+        198, 
+        221, 
+        201
+    ], 
+    "IS 0699 - Lickety Split": [
+        199, 
+        219, 
+        210
+    ], 
+    "IS 1270 - Wind Star": [
+        114, 
+        122, 
+        184
+    ], 
+    "IS 0338 - Whipcord": [
+        162, 
+        148, 
+        122
+    ], 
+    "IS 0496 - Cape Hope": [
+        193, 
+        211, 
+        211
+    ], 
+    "IS 0337 - Urban Charm": [
+        176, 
+        164, 
+        142
+    ], 
+    "IS 1214 - Majestic Plum": [
+        134, 
+        103, 
+        119
+    ], 
+    "IS 0310 - Sassafrass": [
+        190, 
+        168, 
+        127
+    ], 
+    "IS 1127 - Pepto": [
+        229, 
+        166, 
+        187
+    ], 
+    "IS 0609 - Inuendo": [
+        161, 
+        191, 
+        229
+    ], 
+    "IS 1204 - Noteworthy": [
+        219, 
+        187, 
+        208
+    ], 
+    "IS 0861 - Lemon Filling": [
+        250, 
+        230, 
+        171
+    ], 
+    "IS 1219 - Desire": [
+        199, 
+        178, 
+        187
+    ], 
+    "IS 0263 - Country Charm": [
+        145, 
+        115, 
+        81
+    ], 
+    "IS 0115 - Sophistication": [
+        122, 
+        70, 
+        82
+    ], 
+    "IS 0081 - Berry Crush": [
+        120, 
+        79, 
+        75
+    ], 
+    "IS 1116 - Movie Star": [
+        197, 
+        57, 
+        68
+    ], 
+    "IS 0217 - Oak Tone": [
+        209, 
+        200, 
+        183
+    ], 
+    "IS 0784 - Fresh Start": [
+        207, 
+        213, 
+        167
+    ], 
+    "IS 0901 - Spinning Wheel": [
+        247, 
+        239, 
+        220
+    ], 
+    "IS 1164 - Carnation Rose": [
+        205, 
+        149, 
+        196
+    ], 
+    "IS 0715 - Aquamarine Ocean": [
+        139, 
+        206, 
+        175
+    ], 
+    "IS 0241 - Prince Paris": [
+        161, 
+        126, 
+        94
+    ], 
+    "IS 1044 - Shooting Star": [
+        255, 
+        186, 
+        160
+    ], 
+    "IS 1298 - Queen of Sheba": [
+        134, 
+        123, 
+        155
+    ], 
+    "IS 0641 - Dancing Sea": [
+        52, 
+        83, 
+        147
+    ], 
+    "IS 0869 - Frozen Fruit": [
+        225, 
+        205, 
+        155
+    ], 
+    "IS 0222 - Au Natural": [
+        228, 
+        225, 
+        206
+    ], 
+    "IS 0147 - Cave Painting": [
+        211, 
+        189, 
+        176
+    ], 
+    "IS 0255 - Back to Basics": [
+        198, 
+        160, 
+        113
+    ], 
+    "IS 0538 - Santo": [
+        215, 
+        212, 
+        207
+    ], 
+    "IS 0435 - Big Fish": [
+        159, 
+        168, 
+        147
+    ], 
+    "IS 0035 - Weekend Retreat": [
+        232, 
+        197, 
+        177
+    ], 
+    "IS 1256 - Plum Preserve": [
+        131, 
+        118, 
+        172
+    ], 
+    "IS 1296 - Violet Beauty": [
+        189, 
+        179, 
+        203
+    ], 
+    "IS 0410 - Old School": [
+        111, 
+        113, 
+        76
+    ], 
+    "IS 0097 - Odessy Plum": [
+        225, 
+        196, 
+        200
+    ], 
+    "IS 0098 - Lockhart": [
+        191, 
+        158, 
+        165
+    ], 
+    "IS 0768 - Restful Rain": [
+        239, 
+        241, 
+        220
+    ], 
+    "IS 0530 - Metro": [
+        214, 
+        215, 
+        210
+    ], 
+    "IS 0982 - Taste of Summer": [
+        239, 
+        176, 
+        122
+    ], 
+    "IS 1004 - Peace of Mind": [
+        194, 
+        140, 
+        102
+    ], 
+    "IS 0369 - Saturnia": [
+        222, 
+        220, 
+        207
+    ], 
+    "IS 0198 - Young Colt": [
+        171, 
+        159, 
+        143
+    ], 
+    "IS 1183 - Romantic Ballad": [
+        224, 
+        191, 
+        222
+    ], 
+    "IS 0504 - Indian Tears": [
+        161, 
+        179, 
+        191
+    ], 
+    "IS 0078 - Be Mine": [
+        203, 
+        160, 
+        167
+    ], 
+    "IS 0201 - Sparkling Champagne": [
+        235, 
+        233, 
+        221
+    ], 
+    "IS 0823 - Sun Drops": [
+        232, 
+        179, 
+        39
+    ], 
+    "IS 1205 - Fashionably Plum ": [
+        180, 
+        144, 
+        172
+    ], 
+    "IS 0162 - Apple Pie": [
+        204, 
+        176, 
+        154
+    ], 
+    "IS 1007 - Pastel Peach": [
+        240, 
+        205, 
+        175
+    ], 
+    "IS 1257 - Voldemort": [
+        88, 
+        76, 
+        112
+    ], 
+    "IS 0741 - Turning Leaf": [
+        209, 
+        218, 
+        199
+    ], 
+    "IS 0946 - Hot Spot": [
+        254, 
+        225, 
+        149
+    ], 
+    "IS 0210 - Hidden Cove": [
+        205, 
+        201, 
+        190
+    ], 
+    "IS 0576 - Stormy Weather": [
+        124, 
+        120, 
+        109
+    ], 
+    "IS 0876 - Corn Chowder": [
+        222, 
+        198, 
+        150
+    ], 
+    "IS 0907 - Millionaire": [
+        185, 
+        138, 
+        68
+    ], 
+    "IS 0670 - Drifting Tide": [
+        224, 
+        239, 
+        236
+    ], 
+    "IS 1289 - Lilac Blossom": [
+        159, 
+        151, 
+        172
+    ], 
+    "IS 1079 - Wildflower Bouquet": [
+        255, 
+        175, 
+        177
+    ], 
+    "IS 0444 - Grime": [
+        93, 
+        89, 
+        77
+    ], 
+    "IS 1107 - Bunny Fluff": [
+        249, 
+        145, 
+        168
+    ], 
+    "IS 0347 - Jungle Cover": [
+        112, 
+        104, 
+        81
+    ], 
+    "IS 0877 - Gold Digger": [
+        208, 
+        177, 
+        122
+    ], 
+    "IS 1170 - Lavender Quartz": [
+        191, 
+        140, 
+        173
+    ], 
+    "IS 0998 - Gold Metal": [
+        181, 
+        125, 
+        74
+    ], 
+    "IS 0977 - Cheddar Cheese": [
+        241, 
+        138, 
+        69
+    ], 
+    "IS 1166 - Noble Honor": [
+        112, 
+        67, 
+        88
+    ], 
+    "IS 1309 - So Dainty": [
+        206, 
+        193, 
+        202
+    ], 
+    "IS 0572 - Power Lunch": [
+        213, 
+        210, 
+        203
+    ], 
+    "IS 0647 - Zenith": [
+        88, 
+        126, 
+        163
+    ], 
+    "IS 0541 - Smoky Tone": [
+        161, 
+        161, 
+        161
+    ], 
+    "IS 0772 - Wonder Woods": [
+        177, 
+        206, 
+        126
+    ], 
+    "IS 1182 - Lilacs in Spring": [
+        231, 
+        207, 
+        229
+    ], 
+    "IS 0962 - Pieces of Eight": [
+        254, 
+        177, 
+        69
+    ], 
+    "IS 0265 - Marshmallow Mist": [
+        224, 
+        205, 
+        173
+    ], 
+    "IS 1138 - Romantic Night": [
+        151, 
+        65, 
+        68
+    ], 
+    "IS 1216 - Aimee": [
+        238, 
+        228, 
+        226
+    ], 
+    "IS 0984 - Mexican Spirit": [
+        212, 
+        134, 
+        68
+    ], 
+    "IS 1159 - Bridesmaid": [
+        163, 
+        61, 
+        101
+    ], 
+    "IS 0373 - Burning Idea": [
+        150, 
+        144, 
+        120
+    ], 
+    "IS 0652 - Mountain Main": [
+        149, 
+        187, 
+        210
+    ], 
+    "IS 0518 - Let It Rain": [
+        185, 
+        186, 
+        191
+    ], 
+    "IS 0093 - Herald of Spring": [
+        167, 
+        107, 
+        109
+    ], 
+    "IS 0361 - Georgia on My Mind": [
+        122, 
+        113, 
+        82
+    ], 
+    "IS 1149 - Parrot Tulip": [
+        236, 
+        193, 
+        213
+    ], 
+    "IS 0402 - Sabo Garden": [
+        154, 
+        147, 
+        95
+    ], 
+    "IS 0848 - Yellow Tail": [
+        254, 
+        238, 
+        153
+    ], 
+    "IS 0874 - Kettle Corn": [
+        244, 
+        226, 
+        190
+    ], 
+    "IS 0643 - Abstract Idea": [
+        190, 
+        209, 
+        223
+    ], 
+    "IS 0951 - Pound Cake": [
+        252, 
+        239, 
+        194
+    ], 
+    "IS 0468 - Mellow Blue": [
+        218, 
+        227, 
+        222
+    ], 
+    "IS 1066 - Sari": [
+        226, 
+        130, 
+        106
+    ], 
+    "IS 0557 - Evermore": [
+        84, 
+        74, 
+        72
+    ], 
+    "IS 0742 - Isle of Dreams": [
+        193, 
+        205, 
+        183
+    ], 
+    "IS 0415 - French Pear": [
+        163, 
+        164, 
+        132
+    ], 
+    "IS 0798 - Lemon Appeal": [
+        237, 
+        227, 
+        176
+    ], 
+    "IS 0466 - Green Column": [
+        81, 
+        91, 
+        83
+    ], 
+    "IS 1178 - Rose Souvenir": [
+        196, 
+        148, 
+        200
+    ], 
+    "IS 0949 - Frenzy": [
+        255, 
+        180, 
+        3
+    ], 
+    "IS 0696 - Meringue": [
+        41, 
+        159, 
+        147
+    ], 
+    "IS 0297 - Gold Season": [
+        180, 
+        156, 
+        120
+    ], 
+    "IS 0562 - Sultry Castle": [
+        152, 
+        143, 
+        138
+    ], 
+    "IS 1283 - Lavender Spectacle": [
+        154, 
+        152, 
+        176
+    ], 
+    "IS 0693 - Island Breeze": [
+        145, 
+        218, 
+        207
+    ], 
+    "IS 0852 - Touch of Sun": [
+        247, 
+        244, 
+        229
+    ], 
+    "IS 0625 - North Sea": [
+        141, 
+        159, 
+        181
+    ], 
+    "IS 0940 - Grilled Cheese": [
+        254, 
+        202, 
+        103
+    ], 
+    "IS 0717 - Tropical Tale": [
+        65, 
+        164, 
+        117
+    ], 
+    "IS 0154 - Romulus ": [
+        221, 
+        195, 
+        172
+    ], 
+    "IS 1212 - Pansy Posie": [
+        191, 
+        167, 
+        181
+    ], 
+    "IS 1059 - Alexandra Peach": [
+        218, 
+        155, 
+        138
+    ], 
+    "IS 0388 - Shiny Gold": [
+        176, 
+        163, 
+        108
+    ], 
+    "IS 0603 - Angela Bay": [
+        173, 
+        192, 
+        232
+    ], 
+    "IS 0788 - Green Glow": [
+        127, 
+        133, 
+        71
+    ], 
+    "IS 0760 - Green Knoll": [
+        110, 
+        134, 
+        84
+    ], 
+    "IS 1089 - Chuckles": [
+        194, 
+        76, 
+        72
+    ], 
+    "IS 0840 - Lemon Zest": [
+        254, 
+        237, 
+        165
+    ], 
+    "IS 0043 - Angel Breath": [
+        221, 
+        178, 
+        162
+    ], 
+    "IS 0532 - Rand Moon": [
+        186, 
+        187, 
+        182
+    ], 
+    "IS 0990 - Butterscotch Glaze": [
+        197, 
+        138, 
+        80
+    ], 
+    "IS 0058 - Angelic Choir": [
+        183, 
+        109, 
+        100
+    ], 
+    "IS 1056 - Elizabeth Rose": [
+        250, 
+        223, 
+        212
+    ], 
+    "IS 0311 - Life Exotic": [
+        176, 
+        154, 
+        107
+    ], 
+    "IS 0151 - Coffee Shop": [
+        120, 
+        88, 
+        75
+    ], 
+    "IS 0209 - Polished": [
+        223, 
+        214, 
+        205
+    ], 
+    "IS 0462 - Resting Place": [
+        193, 
+        203, 
+        194
+    ], 
+    "IS 0942 - Lemon Dream": [
+        237, 
+        168, 
+        41
+    ], 
+    "IS 0682 - Pleasant Stream": [
+        0, 
+        164, 
+        165
+    ], 
+    "IS 0329 - Knit Cardigan": [
+        214, 
+        201, 
+        169
+    ], 
+    "IS 1294 - Lavender Scent": [
+        219, 
+        213, 
+        225
+    ], 
+    "IS 0128 - Rocky Mountain": [
+        173, 
+        139, 
+        130
+    ], 
+    "IS 0285 - Eugenia": [
+        239, 
+        230, 
+        213
+    ], 
+    "IS 0237 - Flan": [
+        226, 
+        202, 
+        174
+    ], 
+    "IS 0124 - Merlins Beard": [
+        239, 
+        226, 
+        218
+    ], 
+    "IS 1293 - Violet Pearl": [
+        225, 
+        217, 
+        230
+    ], 
+    "IS 0871 - Gold Finch": [
+        188, 
+        158, 
+        96
+    ], 
+    "IS 0580 - Rippled Rock": [
+        197, 
+        198, 
+        190
+    ], 
+    "IS 0355 - Twinkle Twinkle": [
+        246, 
+        243, 
+        236
+    ], 
+    "IS 0423 - Eye of the Storm": [
+        111, 
+        112, 
+        98
+    ], 
+    "IS 0307 - Putting Bench": [
+        240, 
+        228, 
+        202
+    ], 
+    "IS 0663 - Breakwater": [
+        233, 
+        239, 
+        237
+    ], 
+    "IS 0376 - Bleached Meadow": [
+        233, 
+        230, 
+        215
+    ], 
+    "IS 1228 - Petunia Patty": [
+        87, 
+        73, 
+        88
+    ], 
+    "IS 0366 - Owlet": [
+        149, 
+        136, 
+        102
+    ], 
+    "IS 0553 - Smoky Wings": [
+        181, 
+        176, 
+        172
+    ], 
+    "IS 1053 - Sun's Rage": [
+        174, 
+        89, 
+        68
+    ], 
+    "IS 0822 - Sunny Mood": [
+        242, 
+        201, 
+        85
+    ], 
+    "IS 0767 - Golf Day": [
+        99, 
+        145, 
+        73
+    ], 
+    "IS 0207 - Ares Shadow": [
+        103, 
+        95, 
+        84
+    ], 
+    "IS 0189 - Delicate Honeysweet": [
+        192, 
+        175, 
+        157
+    ], 
+    "IS 0185 - Noble Crown": [
+        145, 
+        120, 
+        98
+    ], 
+    "IS 0999 - Ivory Tassel": [
+        246, 
+        233, 
+        216
+    ], 
+    "IS 0475 - Foggy Mist": [
+        203, 
+        212, 
+        207
+    ], 
+    "IS 0459 - Pleasant Hill": [
+        88, 
+        98, 
+        87
+    ], 
+    "IS 0870 - Lemon Slice": [
+        196, 
+        168, 
+        103
+    ], 
+    "IS 0248 - Safari Sun": [
+        183, 
+        141, 
+        99
+    ], 
+    "IS 1148 - Persian Delight": [
+        239, 
+        205, 
+        221
+    ], 
+    "IS 0015 - White Glove": [
+        248, 
+        241, 
+        223
+    ], 
+    "IS 0755 - Creamy Mint": [
+        208, 
+        221, 
+        191
+    ], 
+    "IS 1130 - Obsession": [
+        167, 
+        69, 
+        94
+    ], 
+    "IS 0933 - Sassy Yellow": [
+        238, 
+        196, 
+        120
+    ], 
+    "IS 1191 - Cherish the Moment": [
+        205, 
+        174, 
+        215
+    ], 
+    "IS 0076 - Fantastic Pink": [
+        230, 
+        201, 
+        203
+    ], 
+    "IS 0834 - Lemon Drizzle": [
+        251, 
+        230, 
+        139
+    ], 
+    "IS 0909 - Autumn Child": [
+        249, 
+        231, 
+        195
+    ], 
+    "IS 1088 - Childhood Crush": [
+        223, 
+        114, 
+        109
+    ], 
+    "IS 0341 - Loch Ness": [
+        232, 
+        225, 
+        209
+    ], 
+    "IS 1144 - Temptress": [
+        191, 
+        101, 
+        113
+    ], 
+    "IS 0220 - Monk's Cloth ": [
+        118, 
+        106, 
+        92
+    ], 
+    "IS 1271 - Hot Sauna": [
+        74, 
+        72, 
+        122
+    ], 
+    "IS 0463 - Gaelic Garden": [
+        170, 
+        183, 
+        174
+    ], 
+    "IS 0249 - Butterscotch Mousse": [
+        173, 
+        131, 
+        91
+    ], 
+    "IS 1239 - Plum's the Word": [
+        220, 
+        206, 
+        231
+    ], 
+    "IS 0103 - Hosanna": [
+        219, 
+        186, 
+        193
+    ], 
+    "IS 0645 - Calm Tint": [
+        148, 
+        179, 
+        207
+    ], 
+    "IS 0323 - Star of Gold": [
+        188, 
+        173, 
+        134
+    ], 
+    "IS 0875 - Nothing Less": [
+        240, 
+        222, 
+        186
+    ], 
+    "IS 0994 - Sparkle Glow": [
+        243, 
+        212, 
+        184
+    ], 
+    "IS 0821 - Sun Touched": [
+        248, 
+        215, 
+        122
+    ], 
+    "IS 0560 - Awakening": [
+        213, 
+        203, 
+        191
+    ], 
+    "IS 0450 - River God": [
+        115, 
+        115, 
+        103
+    ], 
+    "IS 0434 - Lush Meadow": [
+        196, 
+        204, 
+        180
+    ], 
+    "IS 1093 - Wood Nymph": [
+        236, 
+        165, 
+        171
+    ], 
+    "IS 0795 - Martina Olive": [
+        144, 
+        144, 
+        70
+    ], 
+    "IS 0637 - Marzena Dream": [
+        171, 
+        208, 
+        235
+    ], 
+    "IS 0420 - Dave's Den": [
+        197, 
+        194, 
+        177
+    ], 
+    "IS 0679 - Everest": [
+        167, 
+        227, 
+        225
+    ], 
+    "IS 0205 - Wood Shadow": [
+        170, 
+        161, 
+        146
+    ], 
+    "IS 1060 - First Lady": [
+        197, 
+        129, 
+        110
+    ], 
+    "IS 1086 - Nosegay": [
+        248, 
+        166, 
+        168
+    ], 
+    "IS 0978 - City of Diamonds": [
+        247, 
+        230, 
+        204
+    ], 
+    "IS 0336 - Soft Leather": [
+        197, 
+        189, 
+        170
+    ], 
+    "IS 0642 - Sea Foam Mist": [
+        206, 
+        221, 
+        226
+    ], 
+    "IS 1198 - Heather Feather": [
+        198, 
+        176, 
+        197
+    ], 
+    "IS 0130 - Evolution": [
+        119, 
+        85, 
+        75
+    ], 
+    "IS 0280 - Wicker Basket": [
+        200, 
+        183, 
+        155
+    ], 
+    "IS 0441 - Slate Stone": [
+        176, 
+        183, 
+        175
+    ], 
+    "IS 1230 - Crescent Moon": [
+        238, 
+        232, 
+        234
+    ], 
+    "IS 0552 - North Island": [
+        194, 
+        184, 
+        183
+    ], 
+    "IS 0575 - Greystoke": [
+        142, 
+        139, 
+        132
+    ], 
+    "IS 0660 - Epimethius": [
+        92, 
+        181, 
+        215
+    ], 
+    "IS 1181 - Violet Ash": [
+        237, 
+        219, 
+        231
+    ], 
+    "IS 0651 - Soft Blue": [
+        174, 
+        207, 
+        224
+    ], 
+    "IS 0559 - Always Neutral": [
+        223, 
+        215, 
+        204
+    ], 
+    "IS 0770 - Woodland Nymph": [
+        216, 
+        232, 
+        183
+    ], 
+    "IS 0989 - Impulse": [
+        210, 
+        151, 
+        91
+    ], 
+    "IS 0033 - Chafed Wheat": [
+        244, 
+        225, 
+        210
+    ], 
+    "IS 1184 - Graceful Garden": [
+        204, 
+        169, 
+        209
+    ], 
+    "IS 0813 - Glistening": [
+        236, 
+        212, 
+        140
+    ], 
+    "IS 1286 - Lavender Pizzazz": [
+        233, 
+        227, 
+        231
+    ], 
+    "IS 1302 - Heather Hill": [
+        190, 
+        178, 
+        188
+    ], 
+    "IS 0841 - Sun's Glory": [
+        252, 
+        226, 
+        107
+    ], 
+    "IS 0139 - Soufle": [
+        207, 
+        190, 
+        182
+    ], 
+    "IS 1000 - Flower of Oahu": [
+        245, 
+        221, 
+        197
+    ], 
+    "IS 0983 - Japonica": [
+        231, 
+        157, 
+        92
+    ], 
+    "IS 0796 - Spotlight": [
+        245, 
+        239, 
+        215
+    ], 
+    "IS 0630 - Star Mist": [
+        182, 
+        199, 
+        207
+    ], 
+    "IS 1078 - Aromatic Breeze": [
+        254, 
+        203, 
+        200
+    ], 
+    "IS 0746 - Mother Nature": [
+        93, 
+        109, 
+        80
+    ], 
+    "IS 0584 - Tornado Wind": [
+        103, 
+        105, 
+        100
+    ], 
+    "IS 0368 - Folk Tales": [
+        122, 
+        111, 
+        81
+    ], 
+    "IS 0522 - Octavius": [
+        71, 
+        70, 
+        75
+    ], 
+    "IS 0380 - Mirrored Willow": [
+        148, 
+        143, 
+        114
+    ], 
+    "IS 0883 - Follow the Leader": [
+        221, 
+        200, 
+        155
+    ], 
+    "IS 1118 - Cotton Candy": [
+        247, 
+        235, 
+        235
+    ], 
+    "IS 0448 - Ice Flow": [
+        190, 
+        197, 
+        190
+    ], 
+    "IS 0498 - Wonder Land": [
+        152, 
+        176, 
+        180
+    ], 
+    "IS 1193 - Crown Jewels": [
+        155, 
+        115, 
+        177
+    ], 
+    "IS 0299 - Allison Lace": [
+        243, 
+        235, 
+        216
+    ], 
+    "IS 0484 - Stormy Bay": [
+        159, 
+        179, 
+        178
+    ], 
+    "IS 1274 - Genevieve": [
+        194, 
+        198, 
+        225
+    ], 
+    "IS 0517 - Cool Elegance": [
+        209, 
+        209, 
+        211
+    ], 
+    "IS 0414 - Plume Grass": [
+        199, 
+        201, 
+        179
+    ], 
+    "IS 0544 - Venecian Wall": [
+        226, 
+        221, 
+        217
+    ], 
+    "IS 0595 - Sail into the Horizon": [
+        169, 
+        190, 
+        221
+    ], 
+    "IS 0771 - Green Lime": [
+        198, 
+        220, 
+        158
+    ], 
+    "IS 0523 - Felicity": [
+        230, 
+        229, 
+        225
+    ], 
+    "IS 0721 - Leaves of Spring": [
+        201, 
+        229, 
+        206
+    ], 
+    "IS 0461 - Calm Breeze": [
+        208, 
+        215, 
+        207
+    ], 
+    "IS 0509 - Beryl Pearl": [
+        227, 
+        227, 
+        227
+    ], 
+    "IS 0581 - Fossilized": [
+        183, 
+        186, 
+        177
+    ], 
+    "IS 1175 - Taffeta Tint": [
+        243, 
+        223, 
+        234
+    ], 
+    "IS 0009 - Chapel Wall": [
+        241, 
+        234, 
+        216
+    ], 
+    "IS 0206 - Thatched Cottage": [
+        134, 
+        125, 
+        108
+    ], 
+    "IS 0175 - 3am Latte": [
+        197, 
+        173, 
+        147
+    ], 
+    "IS 0214 - Wildwood": [
+        104, 
+        94, 
+        85
+    ], 
+    "IS 0612 - Parkwater": [
+        84, 
+        123, 
+        188
+    ], 
+    "IS 1082 - Tropical Heat": [
+        194, 
+        63, 
+        68
+    ], 
+    "IS 0882 - Marzipan": [
+        234, 
+        212, 
+        175
+    ], 
+    "IS 0418 - Onion Skin": [
+        235, 
+        233, 
+        221
+    ], 
+    "IS 0880 - Cauliflower Cream": [
+        242, 
+        228, 
+        201
+    ], 
+    "IS 0688 - Cold North": [
+        97, 
+        159, 
+        158
+    ], 
+    "IS 0348 - Dried Grass": [
+        222, 
+        215, 
+        196
+    ], 
+    "IS 1092 - Petals Unfolding": [
+        242, 
+        190, 
+        194
+    ], 
+    "IS 0016 - Pumice Stone": [
+        247, 
+        240, 
+        222
+    ], 
+    "IS 0187 - White Lightning ": [
+        237, 
+        228, 
+        213
+    ], 
+    "IS 1011 - Semolina": [
+        183, 
+        125, 
+        88
+    ], 
+    "IS 1003 - Sweet Sue": [
+        215, 
+        172, 
+        137
+    ], 
+    "IS 0604 - Blue Skies Today": [
+        156, 
+        174, 
+        220
+    ], 
+    "IS 1314 - Desired Dawn": [
+        218, 
+        218, 
+        220
+    ], 
+    "IS 0447 - Metal Flake": [
+        219, 
+        221, 
+        216
+    ], 
+    "IS 0041 - Chinese Cherry": [
+        242, 
+        215, 
+        204
+    ], 
+    "IS 1259 - Eyeshadow": [
+        219, 
+        218, 
+        234
+    ], 
+    "IS 1048 - Pale Shrimp": [
+        251, 
+        228, 
+        220
+    ], 
+    "IS 0179 - Fall in Season": [
+        132, 
+        105, 
+        78
+    ], 
+    "IS 1119 - Sweet Pea": [
+        249, 
+        219, 
+        229
+    ], 
+    "IS 1206 - Screen Gem": [
+        159, 
+        124, 
+        154
+    ], 
+    "IS 0315 - Peacable Kingdom": [
+        221, 
+        206, 
+        175
+    ], 
+    "IS 0499 - Ocean Melody": [
+        134, 
+        159, 
+        164
+    ], 
+    "IS 0953 - Evening Star": [
+        255, 
+        212, 
+        107
+    ], 
+    "IS 0020 - Bonaime": [
+        228, 
+        225, 
+        218
+    ], 
+    "IS 0915 - Queenly Laugh": [
+        250, 
+        236, 
+        210
+    ], 
+    "IS 0176 - Country Dweller": [
+        181, 
+        155, 
+        130
+    ], 
+    "IS 0225 - Roman Ruins": [
+        193, 
+        182, 
+        160
+    ], 
+    "IS 0723 - Goddess Green": [
+        128, 
+        176, 
+        134
+    ], 
+    "IS 0757 - Garland Pine": [
+        187, 
+        208, 
+        167
+    ], 
+    "IS 0629 - Polished Cotton": [
+        201, 
+        212, 
+        218
+    ], 
+    "IS 0343 - Cantera": [
+        207, 
+        199, 
+        178
+    ], 
+    "IS 0565 - Eskimo Boot": [
+        233, 
+        228, 
+        222
+    ], 
+    "IS 1071 - Cloud Number Nine": [
+        247, 
+        209, 
+        200
+    ], 
+    "IS 1276 - Velvet Robe": [
+        154, 
+        161, 
+        205
+    ], 
+    "IS 0476 - Lighthouse View": [
+        189, 
+        199, 
+        191
+    ], 
+    "IS 0491 - Smoky Day": [
+        133, 
+        148, 
+        153
+    ], 
+    "IS 1026 - Casa De Oro": [
+        207, 
+        112, 
+        68
+    ], 
+    "IS 0131 - Cliffswallow": [
+        235, 
+        222, 
+        214
+    ], 
+    "IS 0846 - Pure Laughter": [
+        250, 
+        243, 
+        201
+    ], 
+    "IS 1055 - White Meadow": [
+        241, 
+        231, 
+        222
+    ], 
+    "IS 0621 - Nuance": [
+        213, 
+        221, 
+        224
+    ], 
+    "IS 0830 - Warm Fuzzies": [
+        239, 
+        184, 
+        55
+    ], 
+    "IS 0685 - Dillard's Blue": [
+        217, 
+        234, 
+        228
+    ], 
+    "IS 0002 - Elusive White": [
+        233, 
+        229, 
+        217
+    ], 
+    "IS 1186 - Pleasant Dream": [
+        165, 
+        126, 
+        171
+    ], 
+    "IS 0234 - Industrial Strength": [
+        139, 
+        127, 
+        105
+    ], 
+    "IS 0486 - Paradise City": [
+        103, 
+        121, 
+        125
+    ], 
+    "IS 0262 - Log Cabin": [
+        163, 
+        135, 
+        96
+    ], 
+    "IS 0583 - Billowing Smoke": [
+        116, 
+        119, 
+        112
+    ], 
+    "IS 0456 - Fair Maiden": [
+        173, 
+        183, 
+        172
+    ], 
+    "IS 1070 - Peony Prize": [
+        249, 
+        222, 
+        213
+    ], 
+    "IS 0920 - Sunrise Heat": [
+        203, 
+        165, 
+        103
+    ], 
+    "IS 1016 - November Leaf": [
+        237, 
+        183, 
+        147
+    ], 
+    "IS 0547 - Tin Man": [
+        177, 
+        176, 
+        174
+    ], 
+    "IS 0132 - Summer Beige": [
+        219, 
+        197, 
+        186
+    ], 
+    "IS 1101 - Mullen Pink": [
+        199, 
+        75, 
+        75
+    ], 
+    "IS 0702 - Peg's Promise": [
+        149, 
+        176, 
+        167
+    ], 
+    "IS 0137 - Hideaway": [
+        108, 
+        82, 
+        69
+    ], 
+    "IS 0395 - Crack Willow": [
+        180, 
+        168, 
+        118
+    ], 
+    "IS 0324 - Upon Reflection": [
+        177, 
+        156, 
+        113
+    ], 
+    "IS 0829 - Dandy Lion": [
+        249, 
+        204, 
+        87
+    ], 
+    "IS 0091 - Garnet Shadow": [
+        201, 
+        148, 
+        154
+    ], 
+    "IS 0204 - Marshy Habitat": [
+        187, 
+        177, 
+        165
+    ], 
+    "IS 0710 - On the Nile": [
+        85, 
+        147, 
+        122
+    ], 
+    "IS 0618 - Heavenly Sky": [
+        114, 
+        147, 
+        182
+    ], 
+    "IS 1316 - Sevoy": [
+        194, 
+        192, 
+        203
+    ], 
+    "IS 0018 - Dove White": [
+        227, 
+        224, 
+        217
+    ], 
+    "IS 0379 - Orestes": [
+        166, 
+        160, 
+        138
+    ], 
+    "IS 1253 - Petunia Trail": [
+        186, 
+        177, 
+        208
+    ], 
+    "IS 1263 - Medieval": [
+        114, 
+        115, 
+        179
+    ], 
+    "IS 0738 - Spring Forest": [
+        111, 
+        151, 
+        117
+    ], 
+    "IS 1284 - Grapes of Wrath": [
+        111, 
+        107, 
+        132
+    ], 
+    "IS 0533 - Techile": [
+        163, 
+        165, 
+        164
+    ], 
+    "IS 1287 - Orchid Fragrance": [
+        203, 
+        195, 
+        210
+    ], 
+    "IS 0716 - Blue Green Scene": [
+        100, 
+        186, 
+        149
+    ], 
+    "IS 0558 - Queen Anne's Lace": [
+        239, 
+        234, 
+        228
+    ], 
+    "IS 0711 - Cute Pixie": [
+        46, 
+        92, 
+        79
+    ], 
+    "IS 0968 - Mango Madness": [
+        255, 
+        180, 
+        112
+    ], 
+    "IS 1241 - Grape Illusion": [
+        186, 
+        169, 
+        214
+    ], 
+    "IS 0857 - Peeps": [
+        255, 
+        207, 
+        71
+    ], 
+    "IS 0216 - Earthling": [
+        221, 
+        213, 
+        200
+    ], 
+    "IS 0353 - Becker Gold": [
+        128, 
+        115, 
+        83
+    ], 
+    "IS 1306 - Royal Velvet": [
+        91, 
+        74, 
+        90
+    ], 
+    "IS 0032 - Ice Dream": [
+        232, 
+        233, 
+        225
+    ], 
+    "IS 0935 - Yellow Shout": [
+        209, 
+        156, 
+        60
+    ], 
+    "IS 1120 - Summer Cosmos": [
+        248, 
+        210, 
+        225
+    ], 
+    "IS 0025 - Prismatic Pearl": [
+        233, 
+        230, 
+        223
+    ], 
+    "IS 1028 - Verve": [
+        251, 
+        233, 
+        213
+    ], 
+    "IS 0492 - Polar Pond": [
+        114, 
+        128, 
+        128
+    ], 
+    "IS 1136 - Romp": [
+        149, 
+        72, 
+        80
+    ], 
+    "IS 0614 - Simple Serenity": [
+        202, 
+        218, 
+        231
+    ], 
+    "IS 0853 - Lemon Lily": [
+        249, 
+        242, 
+        213
+    ], 
+    "IS 1112 - Wishful Thinking": [
+        253, 
+        222, 
+        227
+    ], 
+    "IS 0839 - Butterball": [
+        252, 
+        241, 
+        196
+    ], 
+    "IS 1311 - Gypsy's Gown": [
+        170, 
+        156, 
+        171
+    ], 
+    "IS 1266 - Penelope": [
+        228, 
+        226, 
+        237
+    ], 
+    "IS 1013 - Warm Bread": [
+        247, 
+        230, 
+        212
+    ], 
+    "IS 0356 - Moth Mist": [
+        239, 
+        237, 
+        224
+    ], 
+    "IS 0863 - I'm a Local": [
+        234, 
+        194, 
+        99
+    ], 
+    "IS 0948 - Bright Bubble": [
+        255, 
+        197, 
+        59
+    ], 
+    "IS 1281 - Collensia": [
+        193, 
+        185, 
+        206
+    ], 
+    "IS 0931 - Lemon Bubble": [
+        251, 
+        236, 
+        193
+    ], 
+    "IS 0997 - Gates of Gold": [
+        207, 
+        150, 
+        97
+    ], 
+    "IS 1102 - Precious Peony": [
+        190, 
+        71, 
+        77
+    ], 
+    "IS 0382 - Mount Olive": [
+        119, 
+        108, 
+        78
+    ], 
+    "IS 0525 - Marseilles": [
+        185, 
+        189, 
+        190
+    ], 
+    "IS 0271 - Clover Honey": [
+        233, 
+        224, 
+        209
+    ], 
+    "IS 0244 - Mulled Cider": [
+        227, 
+        197, 
+        159
+    ], 
+    "IS 0714 - Turquoise Tower": [
+        175, 
+        229, 
+        205
+    ], 
+    "IS 1227 - Vivid Vision": [
+        105, 
+        86, 
+        106
+    ], 
+    "IS 1134 - Pegeen Peony": [
+        233, 
+        161, 
+        183
+    ], 
+    "IS 0872 - Saffron Valley": [
+        168, 
+        137, 
+        70
+    ], 
+    "IS 0975 - Downy Feather": [
+        251, 
+        173, 
+        109
+    ], 
+    "IS 0672 - Quiet Pond": [
+        158, 
+        218, 
+        228
+    ], 
+    "IS 0918 - Good-Looking": [
+        234, 
+        211, 
+        169
+    ], 
+    "IS 0624 - Blue Pot": [
+        161, 
+        177, 
+        193
+    ], 
+    "IS 0501 - Calm Interlude": [
+        71, 
+        84, 
+        90
+    ], 
+    "IS 0878 - Glorious Gold": [
+        194, 
+        162, 
+        103
+    ], 
+    "IS 1063 - Tiny Pink": [
+        252, 
+        212, 
+        200
+    ], 
+    "IS 1295 - Gypsy Caravan": [
+        210, 
+        202, 
+        217
+    ], 
+    "IS 0304 - Gold Tangeirs": [
+        162, 
+        139, 
+        98
+    ], 
+    "IS 0182 - Ivory Ridge": [
+        216, 
+        203, 
+        186
+    ], 
+    "IS 0912 - Tropical Dream": [
+        230, 
+        185, 
+        120
+    ], 
+    "IS 1025 - Heat of Summer": [
+        232, 
+        146, 
+        97
+    ], 
+    "IS 0144 - Film Noir": [
+        82, 
+        68, 
+        65
+    ], 
+    "IS 1268 - Spoiled Rotten": [
+        187, 
+        193, 
+        229
+    ], 
+    "IS 0666 - Trisha's Eyes": [
+        148, 
+        186, 
+        197
+    ], 
+    "IS 0114 - Montrose Rose": [
+        159, 
+        112, 
+        120
+    ], 
+    "IS 0543 - November Storms": [
+        76, 
+        72, 
+        69
+    ], 
+    "IS 1196 - Naughty Marietta": [
+        227, 
+        206, 
+        223
+    ], 
+    "IS 1208 - Crowd Pleaser": [
+        99, 
+        78, 
+        95
+    ], 
+    "IS 0183 - Moth Wing": [
+        204, 
+        189, 
+        170
+    ], 
+    "IS 0616 - Bluette": [
+        164, 
+        192, 
+        216
+    ], 
+    "IS 0582 - Paved Path": [
+        136, 
+        138, 
+        133
+    ], 
+    "IS 0149 - Pavillion Tan": [
+        180, 
+        148, 
+        133
+    ], 
+    "IS 0676 - Job's Tears": [
+        0, 
+        99, 
+        130
+    ], 
+    "IS 1317 - Buffed Plum": [
+        179, 
+        177, 
+        188
+    ], 
+    "IS 1091 - All Dressed Up": [
+        247, 
+        207, 
+        207
+    ], 
+    "IS 0259 - Persian Fable": [
+        213, 
+        190, 
+        159
+    ], 
+    "IS 0592 - Quiet Peace": [
+        73, 
+        83, 
+        108
+    ], 
+    "IS 1019 - Orange Ballad": [
+        183, 
+        116, 
+        73
+    ], 
+    "IS 0937 - Egg Nog": [
+        251, 
+        240, 
+        208
+    ], 
+    "IS 0980 - Southern Breeze": [
+        254, 
+        212, 
+        170
+    ], 
+    "IS 1033 - Lava Lamp": [
+        231, 
+        120, 
+        65
+    ], 
+    "IS 0506 - Ocean Storms": [
+        120, 
+        134, 
+        147
+    ], 
+    "IS 0054 - Wink Pink": [
+        249, 
+        232, 
+        224
+    ], 
+    "IS 0964 - Capetown Cream": [
+        252, 
+        236, 
+        210
+    ], 
+    "IS 0554 - Sparrow": [
+        157, 
+        153, 
+        152
+    ], 
+    "IS 0298 - Brocade": [
+        144, 
+        121, 
+        79
+    ], 
+    "IS 0191 - Dusty Path": [
+        146, 
+        125, 
+        106
+    ], 
+    "IS 1143 - Rambling Rose": [
+        214, 
+        140, 
+        157
+    ], 
+    "IS 0514 - Thunderstorm": [
+        95, 
+        99, 
+        108
+    ], 
+    "IS 0831 - Lavish Lemon": [
+        248, 
+        240, 
+        204
+    ], 
+    "IS 0622 - Serene Setting": [
+        198, 
+        211, 
+        219
+    ], 
+    "IS 0467 - Sweet Ariel": [
+        232, 
+        234, 
+        229
+    ], 
+    "IS 0628 - Illuminating Experience": [
+        221, 
+        227, 
+        225
+    ], 
+    "IS 0287 - Muslin Tint": [
+        224, 
+        207, 
+        181
+    ], 
+    "IS 1221 - Charming Violet": [
+        144, 
+        118, 
+        131
+    ], 
+    "IS 0891 - Silence is Golden": [
+        193, 
+        163, 
+        113
+    ], 
+    "IS 0445 - Deep Shadow": [
+        88, 
+        80, 
+        69
+    ], 
+    "IS 1072 - Lusty Orange": [
+        240, 
+        177, 
+        172
+    ], 
+    "IS 0488 - Luna Light": [
+        199, 
+        208, 
+        205
+    ], 
+    "IS 0108 - Exotica": [
+        126, 
+        79, 
+        89
+    ], 
+    "IS 0235 - Black Heath": [
+        109, 
+        98, 
+        80
+    ], 
+    "IS 0275 - Highlight": [
+        191, 
+        168, 
+        136
+    ], 
+    "IS 0635 - Aquafir": [
+        227, 
+        235, 
+        237
+    ], 
+    "IS 0312 - September Gold": [
+        147, 
+        124, 
+        80
+    ], 
+    "IS 0133 - Natchez": [
+        189, 
+        162, 
+        153
+    ], 
+    "IS 0064 - Lord Baltimore": [
+        184, 
+        111, 
+        105
+    ], 
+    "IS 0027 - White Fence": [
+        231, 
+        227, 
+        216
+    ], 
+    "IS 0480 - Deep Sea Shadow": [
+        89, 
+        98, 
+        95
+    ], 
+    "IS 1131 - Can Can": [
+        170, 
+        68, 
+        107
+    ], 
+    "IS 0686 - Outerspace": [
+        186, 
+        222, 
+        220
+    ], 
+    "IS 0668 - Wish Upon a Star": [
+        78, 
+        130, 
+        141
+    ], 
+    "IS 0153 - Take-Out": [
+        230, 
+        204, 
+        187
+    ], 
+    "IS 1265 - White Shoulders": [
+        241, 
+        240, 
+        236
+    ], 
+    "IS 1291 - Dancing in the Spring": [
+        130, 
+        121, 
+        140
+    ], 
+    "IS 0888 - Golden Weave": [
+        233, 
+        219, 
+        193
+    ], 
+    "IS 0617 - John's Blue": [
+        138, 
+        165, 
+        194
+    ], 
+    "IS 0208 - Uber Style": [
+        235, 
+        231, 
+        220
+    ], 
+    "IS 0465 - Earthen Cheer": [
+        111, 
+        128, 
+        118
+    ], 
+    "IS 1077 - Lady Anne": [
+        254, 
+        226, 
+        223
+    ], 
+    "IS 0390 - Olive Tint": [
+        242, 
+        235, 
+        217
+    ], 
+    "IS 1121 - Dahlia Delight": [
+        244, 
+        189, 
+        212
+    ], 
+    "IS 0780 - Hyper": [
+        172, 
+        186, 
+        91
+    ], 
+    "IS 0966 - Starburst": [
+        254, 
+        220, 
+        172
+    ], 
+    "IS 1168 - Marvelous Magic": [
+        225, 
+        198, 
+        213
+    ], 
+    "IS 1030 - Whispy White": [
+        254, 
+        195, 
+        153
+    ], 
+    "IS 0188 - Baguette": [
+        207, 
+        191, 
+        175
+    ], 
+    "IS 1320 - Blackwater": [
+        95, 
+        95, 
+        107
+    ], 
+    "IS 1023 - Mellow Glow": [
+        254, 
+        208, 
+        175
+    ], 
+    "IS 0879 - Golden Cadillac": [
+        174, 
+        138, 
+        80
+    ], 
+    "IS 0286 - Yellow Page": [
+        233, 
+        221, 
+        199
+    ], 
+    "IS 0928 - Yellow Warning": [
+        199, 
+        148, 
+        67
+    ], 
+    "IS 0516 - Diamond Stud": [
+        220, 
+        220, 
+        220
+    ], 
+    "IS 1189 - Little Touch ": [
+        230, 
+        208, 
+        231
+    ], 
+    "IS 0633 - Cape Cod Bay": [
+        94, 
+        117, 
+        133
+    ], 
+    "IS 0706 - Filtered Forest": [
+        187, 
+        225, 
+        210
+    ], 
+    "IS 0833 - Scene Stealer": [
+        249, 
+        233, 
+        158
+    ], 
+    "IS 0127 - Andes Ash": [
+        196, 
+        163, 
+        154
+    ], 
+    "IS 0636 - Empress Lila": [
+        199, 
+        222, 
+        236
+    ], 
+    "IS 1264 - Altar of Heaven": [
+        85, 
+        81, 
+        131
+    ], 
+    "IS 1167 - Dream State": [
+        237, 
+        221, 
+        224
+    ], 
+    "IS 0526 - Metropolos Mood": [
+        159, 
+        164, 
+        168
+    ], 
+    "IS 0072 - Notice Me": [
+        189, 
+        139, 
+        138
+    ], 
+    "IS 0991 - Beeswax Candle": [
+        191, 
+        130, 
+        73
+    ], 
+    "IS 0956 - I Love To Boogy": [
+        254, 
+        172, 
+        36
+    ], 
+    "IS 0599 - Florida Waters": [
+        53, 
+        75, 
+        132
+    ], 
+    "IS 0438 - Delicious": [
+        98, 
+        103, 
+        80
+    ], 
+    "IS 0266 - October Harvest": [
+        213, 
+        190, 
+        158
+    ], 
+    "IS 0068 - Summer Blush": [
+        250, 
+        222, 
+        218
+    ], 
+    "IS 0386 - Hippolita": [
+        209, 
+        198, 
+        152
+    ], 
+    "IS 0233 - Deep Marsh": [
+        176, 
+        165, 
+        147
+    ], 
+    "IS 0282 - Vintage Gold": [
+        184, 
+        162, 
+        125
+    ], 
+    "IS 0539 - Place of Dust": [
+        199, 
+        198, 
+        194
+    ], 
+    "IS 1222 - Grape Soda": [
+        95, 
+        74, 
+        81
+    ], 
+    "IS 0042 - Antoinette Pink": [
+        230, 
+        196, 
+        184
+    ], 
+    "IS 0454 - Marble Green": [
+        206, 
+        214, 
+        203
+    ], 
+    "IS 0432 - Sweet Spring": [
+        237, 
+        238, 
+        224
+    ], 
+    "IS 1123 - Groovy": [
+        223, 
+        108, 
+        151
+    ], 
+    "IS 0945 - Treasure Seeker": [
+        255, 
+        233, 
+        173
+    ], 
+    "IS 0284 - Queen Lioness": [
+        123, 
+        104, 
+        71
+    ], 
+    "IS 0074 - Emperor's Robe": [
+        127, 
+        82, 
+        76
+    ], 
+    "IS 0071 - Ruby Eye": [
+        210, 
+        164, 
+        164
+    ], 
+    "IS 0322 - Gabriel's Light": [
+        218, 
+        205, 
+        170
+    ], 
+    "IS 0345 - Travertine Path": [
+        183, 
+        174, 
+        145
+    ], 
+    "IS 1215 - Purple Shadow": [
+        85, 
+        69, 
+        79
+    ], 
+    "IS 0594 - Simply Sparkling": [
+        182, 
+        199, 
+        225
+    ], 
+    "IS 0924 - First Day of School": [
+        249, 
+        217, 
+        166
+    ], 
+    "IS 1225 - Velour": [
+        190, 
+        171, 
+        193
+    ], 
+    "IS 1278 - Fresh Take": [
+        92, 
+        97, 
+        152
+    ], 
+    "IS 0812 - Gold Strand": [
+        243, 
+        224, 
+        168
+    ], 
+    "IS 1108 - Pink Explosion": [
+        241, 
+        117, 
+        141
+    ], 
+    "IS 0079 - Prophetess": [
+        192, 
+        143, 
+        146
+    ], 
+    "IS 1319 - Overlook": [
+        113, 
+        117, 
+        129
+    ], 
+    "IS 0692 - Barely Aqua": [
+        191, 
+        234, 
+        225
+    ], 
+    "IS 1043 - Mom's Love": [
+        255, 
+        209, 
+        185
+    ], 
+    "IS 0075 - Pink Duet": [
+        247, 
+        232, 
+        229
+    ], 
+    "IS 1152 - Berry Patch": [
+        138, 
+        68, 
+        102
+    ], 
+    "IS 0577 - King Fischer": [
+        117, 
+        113, 
+        102
+    ], 
+    "IS 0381 - Sonata": [
+        134, 
+        129, 
+        100
+    ], 
+    "IS 1194 - Magenta Red Lips": [
+        106, 
+        75, 
+        116
+    ], 
+    "IS 1197 - Lavender Veil": [
+        216, 
+        188, 
+        210
+    ], 
+    "IS 0046 - Valentino": [
+        132, 
+        82, 
+        73
+    ], 
+    "IS 0053 - Remaining Embers": [
+        142, 
+        86, 
+        69
+    ], 
+    "IS 0698 - Calm Thoughts": [
+        227, 
+        237, 
+        226
+    ], 
+    "IS 0164 - Veldrift": [
+        166, 
+        132, 
+        104
+    ], 
+    "IS 0631 - Chicago Skyline": [
+        154, 
+        176, 
+        189
+    ], 
+    "IS 0749 - Perspective": [
+        200, 
+        210, 
+        183
+    ], 
+    "IS 0903 - Dainty Flower": [
+        242, 
+        214, 
+        167
+    ], 
+    "IS 0899 - Bugle Boy": [
+        189, 
+        148, 
+        84
+    ], 
+    "IS 0335 - Illusive Dream": [
+        227, 
+        216, 
+        198
+    ], 
+    "IS 0898 - Goby Desert": [
+        213, 
+        174, 
+        117
+    ], 
+    "IS 0591 - Blue Jacket": [
+        98, 
+        118, 
+        151
+    ], 
+    "IS 0260 - Cocoa Nib": [
+        191, 
+        165, 
+        132
+    ], 
+    "IS 0708 - Catarina Green": [
+        152, 
+        199, 
+        183
+    ], 
+    "IS 0815 - Lemon Surprise": [
+        225, 
+        192, 
+        99
+    ], 
+    "IS 0995 - Bread Pudding": [
+        235, 
+        192, 
+        157
+    ], 
+    "IS 0411 - Cyprus Spring": [
+        243, 
+        243, 
+        235
+    ], 
+    "IS 0665 - Monet Magic": [
+        192, 
+        217, 
+        222
+    ], 
+    "IS 0867 - Egg Noodle": [
+        242, 
+        228, 
+        193
+    ], 
+    "IS 0921 - Waxen Moon": [
+        182, 
+        138, 
+        77
+    ], 
+    "IS 1018 - Sunny Horizon": [
+        209, 
+        140, 
+        98
+    ], 
+    "IS 0513 - Backwater": [
+        111, 
+        118, 
+        126
+    ], 
+    "IS 1310 - Velvet Dawn": [
+        193, 
+        179, 
+        194
+    ], 
+    "IS 0354 - Austere": [
+        121, 
+        112, 
+        81
+    ], 
+    "IS 0199 - Sandy Shoes": [
+        136, 
+        123, 
+        106
+    ], 
+    "IS 0031 - Itialian Ice": [
+        226, 
+        224, 
+        212
+    ], 
+    "IS 0551 - Orchid Shadow": [
+        203, 
+        198, 
+        195
+    ], 
+    "IS 0950 - Ivory Coast": [
+        248, 
+        242, 
+        218
+    ], 
+    "IS 0219 - Camel's Hump": [
+        136, 
+        124, 
+        110
+    ], 
+    "IS 0689 - Atmosphere": [
+        73, 
+        135, 
+        134
+    ], 
+    "IS 1234 - Grape's Treasure": [
+        192, 
+        177, 
+        210
+    ], 
+    "IS 0062 - Blooming Perfect": [
+        215, 
+        155, 
+        154
+    ], 
+    "IS 0357 - Moss Island": [
+        223, 
+        221, 
+        206
+    ], 
+    "IS 1147 - Columbine": [
+        243, 
+        220, 
+        228
+    ], 
+    "IS 1045 - Creamy Orange Blush": [
+        252, 
+        161, 
+        130
+    ], 
+    "IS 0996 - Spice Cookie": [
+        217, 
+        161, 
+        114
+    ], 
+    "IS 0773 - Glass Bottle": [
+        155, 
+        190, 
+        98
+    ], 
+    "IS 0707 - Shimmering Glade": [
+        169, 
+        216, 
+        198
+    ], 
+    "IS 0916 - Honey Cream": [
+        248, 
+        231, 
+        203
+    ], 
+    "IS 0789 - Garden Seat": [
+        235, 
+        230, 
+        200
+    ], 
+    "IS 0069 - Empire Rose": [
+        230, 
+        199, 
+        196
+    ], 
+    "IS 0634 - Day Spa": [
+        74, 
+        91, 
+        107
+    ], 
+    "IS 0427 - Arbor Vitae": [
+        189, 
+        197, 
+        174
+    ], 
+    "IS 0039 - Mandolay Road": [
+        165, 
+        104, 
+        83
+    ], 
+    "IS 0113 - Punch of Pink": [
+        185, 
+        137, 
+        151
+    ], 
+    "IS 0897 - Bag of Gold": [
+        224, 
+        192, 
+        141
+    ], 
+    "IS 0626 - Blue Depths": [
+        101, 
+        119, 
+        141
+    ], 
+    "IS 0787 - Totally Cool": [
+        149, 
+        155, 
+        91
+    ], 
+    "IS 1154 - Viola": [
+        245, 
+        225, 
+        234
+    ], 
+    "IS 0892 - Gold Ransom": [
+        180, 
+        149, 
+        102
+    ], 
+    "IS 0316 - Golden Lake": [
+        214, 
+        200, 
+        163
+    ], 
+    "IS 0549 - Emu": [
+        122, 
+        117, 
+        114
+    ], 
+    "IS 0943 - Picture Perfect": [
+        250, 
+        239, 
+        207
+    ], 
+    "IS 0129 - Arrowhead": [
+        148, 
+        112, 
+        100
+    ], 
+    "IS 1190 - Glittering Gemstone": [
+        223, 
+        193, 
+        227
+    ], 
+    "IS 0667 - Blessed Blue": [
+        108, 
+        156, 
+        168
+    ], 
+    "IS 1040 - Dark Marmalade": [
+        156, 
+        82, 
+        69
+    ], 
+    "IS 0540 - Praise Giving": [
+        184, 
+        180, 
+        177
+    ], 
+    "IS 0505 - In Good Taste": [
+        143, 
+        157, 
+        168
+    ], 
+    "IS 1073 - Graceful Ballerina": [
+        221, 
+        141, 
+        130
+    ], 
+    "IS 0930 - Marshmallow Fluff": [
+        246, 
+        240, 
+        216
+    ], 
+    "IS 0797 - Bermuda Son": [
+        239, 
+        234, 
+        192
+    ], 
+    "IS 0598 - Caribbean Current": [
+        97, 
+        125, 
+        172
+    ], 
+    "IS 0119 - Angela Canyon": [
+        202, 
+        157, 
+        154
+    ], 
+    "IS 0885 - Jungle Expedition": [
+        183, 
+        153, 
+        93
+    ], 
+    "IS 0775 - Elfin Magic": [
+        237, 
+        239, 
+        202
+    ], 
+    "IS 0401 - Bamboo Forest": [
+        179, 
+        171, 
+        125
+    ], 
+    "IS 1307 - Clytemnestra": [
+        231, 
+        226, 
+        223
+    ], 
+    "IS 1125 - Hepatica": [
+        247, 
+        224, 
+        230
+    ], 
+    "IS 0608 - Modern Blue": [
+        189, 
+        209, 
+        234
+    ], 
+    "IS 1200 - Felicia": [
+        149, 
+        120, 
+        150
+    ], 
+    "IS 0727 - Graceful Mint": [
+        219, 
+        238, 
+        216
+    ], 
+    "IS 0412 - Sublime": [
+        237, 
+        237, 
+        225
+    ], 
+    "IS 0308 - Coconut Crumble": [
+        225, 
+        207, 
+        169
+    ], 
+    "IS 0588 - Babbling Creek": [
+        171, 
+        187, 
+        212
+    ], 
+    "IS 0273 - Sandstone Palette": [
+        216, 
+        204, 
+        182
+    ], 
+    "IS 0794 - The Goods": [
+        174, 
+        168, 
+        90
+    ], 
+    "IS 0638 - Watery Sea": [
+        143, 
+        192, 
+        232
+    ], 
+    "IS 0607 - Brush Blue": [
+        214, 
+        226, 
+        238
+    ], 
+    "IS 0731 - Aqueous ": [
+        98, 
+        165, 
+        98
+    ], 
+    "IS 0807 - Bright Idea": [
+        218, 
+        186, 
+        103
+    ], 
+    "IS 0276 - Gold Tafetta": [
+        168, 
+        144, 
+        108
+    ], 
+    "IS 0555 - Ocean Frigate": [
+        129, 
+        125, 
+        126
+    ], 
+    "IS 1187 - Joyous Song": [
+        102, 
+        68, 
+        101
+    ], 
+    "IS 0010 - Petticoat": [
+        237, 
+        229, 
+        206
+    ], 
+    "IS 0615 - Blue Bayou": [
+        184, 
+        205, 
+        226
+    ], 
+    "IS 1267 - Casa del Mar": [
+        206, 
+        208, 
+        231
+    ], 
+    "IS 0045 - Sizzling Hot": [
+        166, 
+        113, 
+        97
+    ], 
+    "IS 0816 - Sin City": [
+        209, 
+        167, 
+        65
+    ], 
+    "IS 0143 - Connoisseur": [
+        107, 
+        87, 
+        78
+    ], 
+    "IS 0737 - Buenos Aires": [
+        143, 
+        182, 
+        153
+    ], 
+    "IS 0426 - September Song": [
+        214, 
+        218, 
+        203
+    ], 
+    "IS 0800 - Yellow Umbrella": [
+        205, 
+        191, 
+        103
+    ], 
+    "IS 0177 - Weaver's Tool": [
+        160, 
+        133, 
+        104
+    ], 
+    "IS 0174 - Maple Pecan": [
+        226, 
+        209, 
+        189
+    ], 
+    "IS 0349 - Resede": [
+        209, 
+        201, 
+        178
+    ], 
+    "IS 0371 - Fiorito": [
+        196, 
+        194, 
+        179
+    ], 
+    "IS 0270 - Graham Crust": [
+        133, 
+        107, 
+        74
+    ], 
+    "IS 0231 - Desert Mirage": [
+        210, 
+        202, 
+        189
+    ], 
+    "IS 0758 - Glendale": [
+        166, 
+        189, 
+        143
+    ], 
+    "IS 0703 - Mountain Meadow": [
+        112, 
+        140, 
+        128
+    ], 
+    "IS 0740 - Just About Green": [
+        225, 
+        229, 
+        212
+    ], 
+    "IS 0122 - Outrageous": [
+        133, 
+        79, 
+        67
+    ], 
+    "IS 0567 - Hearthstone": [
+        200, 
+        192, 
+        181
+    ], 
+    "IS 0497 - Restful Retreat": [
+        181, 
+        200, 
+        204
+    ], 
+    "IS 0718 - Aquadazzle": [
+        33, 
+        119, 
+        84
+    ], 
+    "IS 0959 - Essentially Bright": [
+        255, 
+        223, 
+        164
+    ], 
+    "IS 0719 - Mint Grasshopper": [
+        226, 
+        240, 
+        227
+    ], 
+    "IS 0579 - Turkish Tower": [
+        216, 
+        217, 
+        211
+    ], 
+    "IS 1171 - Teen Queen": [
+        168, 
+        121, 
+        157
+    ], 
+    "IS 1226 - Imagine That": [
+        153, 
+        130, 
+        158
+    ], 
+    "IS 1036 - Apricot Spring": [
+        241, 
+        182, 
+        152
+    ], 
+    "IS 0050 - Simmering Ridge": [
+        203, 
+        152, 
+        135
+    ], 
+    "IS 0814 - Golden Glow": [
+        236, 
+        204, 
+        119
+    ], 
+    "IS 0246 - Cinnamoon Toast": [
+        204, 
+        166, 
+        119
+    ], 
+    "IS 1022 - Delicate Dawn": [
+        252, 
+        218, 
+        191
+    ], 
+    "IS 1067 - Sweet Baby Rose": [
+        191, 
+        89, 
+        75
+    ], 
+    "IS 0535 - Zen Retreat": [
+        101, 
+        101, 
+        101
+    ], 
+    "IS 0340 - Nightfall": [
+        102, 
+        89, 
+        70
+    ], 
+    "IS 0960 - Bread 'n Butter": [
+        255, 
+        210, 
+        133
+    ], 
+    "IS 0360 - Land Before Time": [
+        144, 
+        133, 
+        101
+    ], 
+    "IS 1062 - Albino": [
+        249, 
+        235, 
+        226
+    ], 
+    "IS 0763 - Graceful Flower": [
+        192, 
+        223, 
+        179
+    ], 
+    "IS 0313 - Chic Magnet": [
+        235, 
+        224, 
+        202
+    ], 
+    "IS 1160 - Petal Poise": [
+        245, 
+        225, 
+        236
+    ], 
+    "IS 0077 - Pink Softness": [
+        221, 
+        186, 
+        190
+    ], 
+    "IS 0838 - Fresh Cream": [
+        249, 
+        243, 
+        219
+    ], 
+    "IS 0363 - Mission Hills": [
+        225, 
+        219, 
+        197
+    ], 
+    "IS 0105 - Harvest Blessing": [
+        199, 
+        159, 
+        168
+    ], 
+    "IS 0894 - Misty Mustard": [
+        246, 
+        234, 
+        212
+    ], 
+    "IS 0976 - Coctail Hour": [
+        250, 
+        158, 
+        91
+    ], 
+    "IS 0485 - North Beach Blue": [
+        139, 
+        160, 
+        163
+    ], 
+    "IS 0881 - Golden Syrup": [
+        233, 
+        217, 
+        183
+    ], 
+    "IS 0291 - Rutherford": [
+        145, 
+        121, 
+        85
+    ], 
+    "IS 0056 - Dainty Debutante": [
+        241, 
+        191, 
+        182
+    ], 
+    "IS 1246 - Purple Purity": [
+        203, 
+        199, 
+        224
+    ], 
+    "IS 0873 - Washed in Light": [
+        247, 
+        232, 
+        201
+    ], 
+    "IS 0155 - Cowhide": [
+        205, 
+        170, 
+        142
+    ], 
+    "IS 0293 - What Inheritance": [
+        233, 
+        217, 
+        191
+    ], 
+    "IS 0332 - All Nighter": [
+        160, 
+        146, 
+        109
+    ], 
+    "IS 0104 - Victorian Cottage": [
+        212, 
+        177, 
+        184
+    ], 
+    "IS 0392 - Alsot Olive": [
+        224, 
+        216, 
+        180
+    ], 
+    "IS 0269 - Sahara Wind": [
+        145, 
+        113, 
+        74
+    ], 
+    "IS 1094 - Porcelain Rose": [
+        220, 
+        135, 
+        140
+    ], 
+    "IS 0019 - Mystic Fog": [
+        233, 
+        233, 
+        225
+    ], 
+    "IS 0654 - Peninsula": [
+        74, 
+        128, 
+        162
+    ], 
+    "IS 0460 - Just a Little": [
+        221, 
+        224, 
+        215
+    ], 
+    "IS 0720 - Silky Mint": [
+        216, 
+        235, 
+        216
+    ], 
+    "IS 0330 - Castaway Beach": [
+        208, 
+        195, 
+        161
+    ], 
+    "IS 1076 - Baby Blossom": [
+        247, 
+        236, 
+        232
+    ], 
+    "IS 0799 - Fire Dance": [
+        225, 
+        214, 
+        148
+    ], 
+    "IS 1288 - Violet Crush": [
+        185, 
+        178, 
+        196
+    ], 
+    "IS 0985 - Whiskers": [
+        248, 
+        239, 
+        224
+    ], 
+    "IS 0542 - Captain Nemo": [
+        134, 
+        134, 
+        134
+    ], 
+    "IS 0294 - Rub Elbows": [
+        226, 
+        209, 
+        179
+    ], 
+    "IS 0428 - Lucky Day": [
+        153, 
+        159, 
+        131
+    ], 
+    "IS 1106 - Garden Glory": [
+        254, 
+        193, 
+        208
+    ], 
+    "IS 0981 - Tuscan Wall": [
+        249, 
+        199, 
+        150
+    ], 
+    "IS 1035 - Spiced Cider": [
+        244, 
+        200, 
+        173
+    ], 
+    "IS 0295 - Spanish Cream": [
+        214, 
+        198, 
+        164
+    ], 
+    "IS 1202 - Daring Deception": [
+        239, 
+        223, 
+        224
+    ], 
+    "IS 0887 - Haystack": [
+        240, 
+        228, 
+        202
+    ], 
+    "IS 0407 - Vapor": [
+        195, 
+        199, 
+        166
+    ], 
+    "IS 0842 - Sunnyside": [
+        249, 
+        212, 
+        46
+    ], 
+    "IS 0458 - Malarca": [
+        119, 
+        133, 
+        116
+    ], 
+    "IS 0172 - Chasm": [
+        140, 
+        105, 
+        77
+    ], 
+    "IS 0178 - Cupcake": [
+        144, 
+        118, 
+        93
+    ], 
+    "IS 0733 - Leaf Print": [
+        224, 
+        235, 
+        219
+    ], 
+    "IS 1087 - Bay Corall": [
+        233, 
+        131, 
+        127
+    ], 
+    "IS 0364 - Stone Hearth": [
+        208, 
+        201, 
+        172
+    ], 
+    "IS 0112 - Lady Flower": [
+        208, 
+        168, 
+        177
+    ], 
+    "IS 1301 - Lavender Bikini": [
+        230, 
+        218, 
+        220
+    ], 
+    "IS 0732 - Tingle": [
+        61, 
+        129, 
+        68
+    ], 
+    "IS 0955 - Lemon Whisper": [
+        254, 
+        182, 
+        38
+    ], 
+    "IS 1248 - Velvet Crest": [
+        150, 
+        148, 
+        188
+    ], 
+    "IS 0747 - Whitewash": [
+        232, 
+        235, 
+        216
+    ], 
+    "IS 0305 - Golden Summer": [
+        133, 
+        111, 
+        74
+    ], 
+    "IS 0007 - Cotton Ball": [
+        245, 
+        237, 
+        224
+    ], 
+    "IS 0481 - Dream Catcher": [
+        220, 
+        230, 
+        222
+    ], 
+    "IS 1054 - Carrot Cake": [
+        167, 
+        88, 
+        73
+    ], 
+    "IS 0701 - Plunge": [
+        170, 
+        197, 
+        188
+    ], 
+    "IS 0957 - Pale Narcissus": [
+        249, 
+        242, 
+        223
+    ], 
+    "IS 0089 - Star of Morning": [
+        235, 
+        189, 
+        192
+    ], 
+    "IS 0026 - Moon Drop": [
+        220, 
+        212, 
+        201
+    ], 
+    "IS 0302 - Rich Reward": [
+        190, 
+        167, 
+        133
+    ], 
+    "IS 0451 - Evening Dove": [
+        94, 
+        92, 
+        79
+    ], 
+    "IS 0512 - Overcast Day": [
+        150, 
+        157, 
+        165
+    ], 
+    "IS 1229 - Elinor Ann": [
+        78, 
+        67, 
+        73
+    ], 
+    "IS 0413 - Speak to Me ": [
+        223, 
+        224, 
+        210
+    ], 
+    "IS 0240 - Spiced Rum": [
+        177, 
+        144, 
+        111
+    ], 
+    "IS 1132 - Sullivan's Heart": [
+        246, 
+        198, 
+        210
+    ], 
+    "IS 0227 - Moonscape": [
+        144, 
+        131, 
+        112
+    ], 
+    "IS 0613 - Blue Highlight": [
+        64, 
+        80, 
+        140
+    ], 
+    "IS 1009 - Bedtime Story": [
+        225, 
+        180, 
+        151
+    ], 
+    "IS 0858 - Look at the Bright Side": [
+        254, 
+        194, 
+        0
+    ], 
+    "IS 0938 - Primrose Path": [
+        254, 
+        226, 
+        163
+    ], 
+    "IS 0087 - Cinnapink": [
+        168, 
+        108, 
+        120
+    ], 
+    "IS 0190 - Village Cryer": [
+        176, 
+        158, 
+        138
+    ], 
+    "IS 0421 - Silverado Ranch": [
+        172, 
+        172, 
+        160
+    ], 
+    "IS 0309 - Palmetto Bluff": [
+        210, 
+        188, 
+        151
+    ], 
+    "IS 0013 - Sphere": [
+        241, 
+        231, 
+        204
+    ], 
+    "IS 1177 - Rosy Cheeks": [
+        230, 
+        190, 
+        224
+    ], 
+    "IS 1126 - Seashell Pink": [
+        243, 
+        203, 
+        214
+    ], 
+    "IS 1245 - Perfection": [
+        217, 
+        213, 
+        228
+    ], 
+    "IS 1269 - Mood Mode": [
+        136, 
+        147, 
+        203
+    ], 
+    "IS 0073 - Corazon": [
+        159, 
+        108, 
+        105
+    ], 
+    "IS 0735 - Cool Spring": [
+        190, 
+        218, 
+        196
+    ], 
+    "IS 0396 - Wing Man": [
+        126, 
+        118, 
+        71
+    ], 
+    "IS 1081 - Endless Possibilites": [
+        223, 
+        79, 
+        71
+    ], 
+    "IS 0029 - Cherish is the Word": [
+        229, 
+        226, 
+        219
+    ], 
+    "IS 1080 - Cherished One": [
+        249, 
+        149, 
+        151
+    ], 
+    "IS 0590 - Madonna Blue": [
+        104, 
+        125, 
+        156
+    ], 
+    "IS 0094 - Starlet": [
+        137, 
+        88, 
+        91
+    ], 
+    "IS 0374 - Candle Wax": [
+        119, 
+        113, 
+        91
+    ], 
+    "IS 1153 - Vienna Dawn": [
+        246, 
+        236, 
+        237
+    ], 
+    "IS 0048 - Embrace": [
+        230, 
+        187, 
+        170
+    ], 
+    "IS 0494 - Dark River": [
+        71, 
+        77, 
+        77
+    ], 
+    "IS 0669 - Frozen Stream": [
+        62, 
+        92, 
+        100
+    ], 
+    "IS 0828 - Go Go Glow": [
+        253, 
+        227, 
+        143
+    ], 
+    "IS 0281 - Olive Gold": [
+        190, 
+        174, 
+        141
+    ], 
+    "IS 0971 - May Sun": [
+        249, 
+        232, 
+        212
+    ], 
+    "IS 0339 - Ceramic Pot": [
+        148, 
+        134, 
+        108
+    ], 
+    "IS 1244 - White Bud": [
+        227, 
+        224, 
+        231
+    ], 
+    "IS 0181 - Ageless": [
+        224, 
+        211, 
+        195
+    ], 
+    "IS 0793 - Motherland": [
+        189, 
+        186, 
+        107
+    ], 
+    "IS 0825 - Frozen Banana": [
+        248, 
+        242, 
+        208
+    ], 
+    "IS 0649 - Divine Inspiration": [
+        218, 
+        226, 
+        228
+    ], 
+    "IS 1110 - Unmatched Beauty": [
+        181, 
+        62, 
+        66
+    ], 
+    "IS 0860 - Hawaiian Cream": [
+        250, 
+        233, 
+        187
+    ], 
+    "IS 0397 - Hidden Paradise ": [
+        238, 
+        236, 
+        215
+    ], 
+    "IS 0148 - Oak Plank": [
+        201, 
+        172, 
+        156
+    ], 
+    "IS 0370 - Palatine": [
+        203, 
+        202, 
+        184
+    ], 
+    "IS 0479 - Stairway to Heaven": [
+        111, 
+        120, 
+        117
+    ], 
+    "IS 0156 - Skinny Dip": [
+        183, 
+        142, 
+        114
+    ], 
+    "IS 0818 - Day at the Zoo": [
+        248, 
+        243, 
+        214
+    ], 
+    "IS 1014 - Muffin Magic": [
+        248, 
+        221, 
+        200
+    ], 
+    "IS 1172 - Immortality": [
+        150, 
+        99, 
+        132
+    ], 
+    "IS 0743 - Belladonna's Leaf": [
+        178, 
+        198, 
+        171
+    ], 
+    "IS 0052 - Spiced Carrot": [
+        168, 
+        105, 
+        87
+    ], 
+    "IS 0422 - Everlasting Sage": [
+        153, 
+        153, 
+        141
+    ], 
+    "IS 0452 - Ruggero Grey": [
+        80, 
+        78, 
+        65
+    ], 
+    "IS 0173 - Pale Gingersnap": [
+        233, 
+        221, 
+        205
+    ], 
+    "IS 0003 - Nilla Vanilla": [
+        243, 
+        234, 
+        225
+    ], 
+    "IS 1180 - Berry Light": [
+        109, 
+        73, 
+        109
+    ], 
+    "IS 0040 - Antique Candle Light": [
+        244, 
+        226, 
+        216
+    ], 
+    "IS 0659 - Lasting Thoughts": [
+        125, 
+        201, 
+        227
+    ], 
+    "IS 0646 - Key West Zenith": [
+        126, 
+        162, 
+        196
+    ], 
+    "IS 0759 - Perennial Garden": [
+        140, 
+        168, 
+        117
+    ], 
+    "IS 1165 - Pink Parade": [
+        181, 
+        112, 
+        166
+    ], 
+    "IS 0785 - Misty Valley ": [
+        192, 
+        197, 
+        141
+    ], 
+    "IS 0453 - Feather Fern": [
+        216, 
+        222, 
+        212
+    ], 
+    "IS 0778 - Vacation Island": [
+        212, 
+        219, 
+        149
+    ], 
+    "IS 0493 - Spacebox": [
+        98, 
+        112, 
+        113
+    ], 
+    "IS 1068 - Best of the Bunch": [
+        191, 
+        94, 
+        77
+    ], 
+    "IS 1041 - Flowerbed": [
+        250, 
+        231, 
+        216
+    ], 
+    "IS 1303 - Cut Heather": [
+        163, 
+        149, 
+        164
+    ], 
+    "IS 0944 - Sunrise Glow": [
+        251, 
+        237, 
+        192
+    ], 
+    "IS 0508 - Midnight Magic ": [
+        82, 
+        81, 
+        86
+    ], 
+    "IS 0224 - Pebblebrook": [
+        216, 
+        208, 
+        189
+    ], 
+    "IS 0939 - Big Bus Yellow": [
+        255, 
+        218, 
+        143
+    ], 
+    "IS 0393 - Inviting Gesture": [
+        206, 
+        198, 
+        161
+    ], 
+    "IS 0333 - Grasslands": [
+        127, 
+        114, 
+        79
+    ], 
+    "IS 0640 - Skylla": [
+        57, 
+        126, 
+        195
+    ], 
+    "IS 1038 - Jack-O-Lantern": [
+        210, 
+        127, 
+        87
+    ], 
+    "IS 1273 - Wildflower Prairie": [
+        206, 
+        209, 
+        228
+    ], 
+    "IS 0180 - Fresh Linen": [
+        237, 
+        225, 
+        213
+    ], 
+    "IS 0835 - Glitter Yellow": [
+        248, 
+        217, 
+        100
+    ], 
+    "IS 1057 - Pink Satin": [
+        243, 
+        200, 
+        183
+    ], 
+    "IS 0171 - Golden Glove": [
+        164, 
+        123, 
+        93
+    ], 
+    "IS 0111 - Acacia Bloom": [
+        226, 
+        185, 
+        191
+    ], 
+    "IS 0030 - Lady Nicole": [
+        215, 
+        215, 
+        207
+    ], 
+    "IS 0331 - Refined": [
+        196, 
+        182, 
+        145
+    ], 
+    "IS 0762 - Green Song": [
+        209, 
+        233, 
+        199
+    ], 
+    "IS 0802 - Rain Boots": [
+        169, 
+        154, 
+        69
+    ], 
+    "IS 0464 - Kathleen's Garden": [
+        150, 
+        165, 
+        158
+    ], 
+    "IS 0391 - Crispa": [
+        231, 
+        224, 
+        195
+    ], 
+    "IS 0819 - Lemon Tint": [
+        249, 
+        240, 
+        199
+    ], 
+    "IS 0110 - Baby Bunting": [
+        234, 
+        202, 
+        207
+    ], 
+    "IS 1209 - Princess Irene": [
+        234, 
+        219, 
+        222
+    ], 
+    "IS 0974 - Goosebill": [
+        254, 
+        187, 
+        132
+    ], 
+    "IS 0895 - Rotunda Gold": [
+        243, 
+        224, 
+        191
+    ], 
+    "IS 0318 - There's No Place Like Home": [
+        175, 
+        152, 
+        110
+    ], 
+    "IS 0764 - Green Sheen": [
+        184, 
+        213, 
+        165
+    ], 
+    "IS 0268 - Rich Oak": [
+        170, 
+        138, 
+        97
+    ], 
+    "IS 0500 - Bowman Blue": [
+        97, 
+        118, 
+        123
+    ], 
+    "IS 0303 - Bauhaus Gold": [
+        179, 
+        157, 
+        116
+    ], 
+    "IS 1304 - Iced Orchid": [
+        148, 
+        132, 
+        143
+    ], 
+    "IS 1027 - Abstract White": [
+        246, 
+        238, 
+        225
+    ], 
+    "IS 0705 - Bay Green": [
+        214, 
+        236, 
+        224
+    ], 
+    "IS 0545 - Old Grey Mare": [
+        218, 
+        214, 
+        211
+    ], 
+    "IS 0126 - Sautern": [
+        217, 
+        190, 
+        183
+    ], 
+    "IS 0096 - Morning Side": [
+        243, 
+        225, 
+        223
+    ], 
+    "IS 0548 - Jet Gray": [
+        159, 
+        158, 
+        156
+    ], 
+    "IS 0893 - Rich and Rare": [
+        156, 
+        125, 
+        78
+    ], 
+    "IS 0973 - Atoll Sand": [
+        255, 
+        208, 
+        162
+    ], 
+    "IS 0158 - Mover and Shaker": [
+        139, 
+        101, 
+        78
+    ], 
+    "IS 0664 - Zircon Ice": [
+        208, 
+        227, 
+        231
+    ], 
+    "IS 0359 - Green Sleeves": [
+        166, 
+        155, 
+        123
+    ], 
+    "IS 0673 - Enchanted Evening": [
+        110, 
+        196, 
+        213
+    ], 
+    "IS 0250 - Pumpkin Spice": [
+        245, 
+        233, 
+        211
+    ], 
+    "IS 0868 - Shortcake": [
+        239, 
+        218, 
+        173
+    ], 
+    "IS 0389 - Gold Sparkle": [
+        125, 
+        113, 
+        73
+    ], 
+    "IS 0226 - Sedge": [
+        180, 
+        169, 
+        149
+    ], 
+    "IS 0936 - Diantha": [
+        249, 
+        241, 
+        218
+    ], 
+    "IS 0836 - Basket of Gold": [
+        243, 
+        206, 
+        73
+    ], 
+    "IS 0776 - Green Mist": [
+        228, 
+        234, 
+        188
+    ], 
+    "IS 0502 - Ocean Crest": [
+        215, 
+        220, 
+        223
+    ], 
+    "IS 0358 - Silky Green": [
+        203, 
+        197, 
+        175
+    ], 
+    "IS 0729 - Garden Goddess": [
+        161, 
+        208, 
+        166
+    ], 
+    "IS 1185 - Satin Flower": [
+        183, 
+        147, 
+        191
+    ], 
+    "IS 0117 - Satin Slipper": [
+        240, 
+        216, 
+        212
+    ], 
+    "IS 0854 - Crocus Tint": [
+        251, 
+        240, 
+        195
+    ], 
+    "IS 0515 - Silent Sea": [
+        61, 
+        61, 
+        61
+    ], 
+    "IS 0993 - Incan Treasure": [
+        247, 
+        221, 
+        198
+    ], 
+    "IS 0038 - Autumn's Hill": [
+        189, 
+        129, 
+        105
+    ], 
+    "IS 0203 - Whale Bone": [
+        210, 
+        202, 
+        189
+    ], 
+    "IS 0365 - Abbey Stone": [
+        164, 
+        155, 
+        124
+    ], 
+    "IS 0884 - Gold Tweed": [
+        203, 
+        176, 
+        123
+    ], 
+    "IS 1282 - Butterfly Bush": [
+        167, 
+        165, 
+        187
+    ], 
+    "IS 0080 - Abra Cadabra": [
+        154, 
+        105, 
+        108
+    ], 
+    "IS 0065 - Poppy Prose": [
+        175, 
+        102, 
+        96
+    ], 
+    "IS 1122 - Rose Mallow": [
+        242, 
+        173, 
+        201
+    ], 
+    "IS 0140 - Cozy Cover": [
+        185, 
+        165, 
+        154
+    ], 
+    "IS 0782 - Tender Shoot": [
+        232, 
+        235, 
+        208
+    ], 
+    "IS 0965 - Gold of Midas": [
+        254, 
+        231, 
+        197
+    ], 
+    "IS 1279 - He Loves Me": [
+        226, 
+        221, 
+        228
+    ], 
+    "IS 0952 - Rich Glow": [
+        254, 
+        230, 
+        158
+    ], 
+    "IS 1211 - Lavender Blessing": [
+        212, 
+        186, 
+        199
+    ], 
+    "IS 0586 - Wind Blown": [
+        222, 
+        227, 
+        231
+    ], 
+    "IS 0623 - Pompeii Ruins": [
+        184, 
+        200, 
+        213
+    ], 
+    "IS 0022 - White Kitten": [
+        223, 
+        222, 
+        218
+    ], 
+    "IS 0536 - Subway": [
+        79, 
+        78, 
+        76
+    ], 
+    "IS 0387 - Goldie Oldie": [
+        188, 
+        177, 
+        123
+    ], 
+    "IS 0288 - Golden Buff": [
+        221, 
+        203, 
+        167
+    ], 
+    "IS 0849 - Appeal Lemon": [
+        255, 
+        235, 
+        130
+    ], 
+    "IS 0563 - Vigilant": [
+        135, 
+        127, 
+        116
+    ], 
+    "IS 0704 - Plateau": [
+        84, 
+        110, 
+        97
+    ], 
+    "IS 0457 - Heavenly Garden": [
+        154, 
+        168, 
+        155
+    ], 
+    "IS 0212 - Big Spender": [
+        172, 
+        160, 
+        146
+    ], 
+    "IS 1124 - Velvet Cake": [
+        161, 
+        56, 
+        73
+    ], 
+    "IS 0197 - Thistle Gray": [
+        194, 
+        185, 
+        170
+    ], 
+    "IS 0221 - Brown Suede": [
+        99, 
+        89, 
+        77
+    ], 
+    "IS 0001 - Hint of Vanilla": [
+        237, 
+        233, 
+        222
+    ], 
+    "IS 0925 - Jonquil Trail": [
+        244, 
+        212, 
+        153
+    ], 
+    "IS 0049 - Auburn Wave": [
+        216, 
+        167, 
+        152
+    ], 
+    "IS 0752 - Cactus Valley": [
+        140, 
+        155, 
+        112
+    ], 
+    "IS 0850 - Citron": [
+        255, 
+        226, 
+        78
+    ], 
+    "IS 0970 - Orange you Happy": [
+        249, 
+        133, 
+        48
+    ], 
+    "IS 1305 - Victorian Violet": [
+        130, 
+        114, 
+        125
+    ], 
+    "IS 1024 - Pumpkin Hue": [
+        242, 
+        167, 
+        127
+    ], 
+    "IS 0279 - Garden Country": [
+        213, 
+        199, 
+        172
+    ], 
+    "IS 1173 - Purple Stilleto": [
+        105, 
+        74, 
+        90
+    ], 
+    "IS 0722 - Liliana": [
+        171, 
+        215, 
+        180
+    ], 
+    "IS 1220 - Play Time": [
+        183, 
+        159, 
+        172
+    ], 
+    "IS 0436 - Fern Gully": [
+        137, 
+        145, 
+        121
+    ], 
+    "IS 0433 - Grassy Glade": [
+        218, 
+        222, 
+        205
+    ], 
+    "IS 0408 - Rediscover": [
+        184, 
+        186, 
+        147
+    ], 
+    "IS 1065 - Rose Essence": [
+        238, 
+        159, 
+        142
+    ], 
+    "IS 0824 - Hush": [
+        248, 
+        242, 
+        218
+    ], 
+    "IS 0511 - Cystern": [
+        174, 
+        179, 
+        183
+    ], 
+    "IS 1006 - Turkscap": [
+        243, 
+        217, 
+        192
+    ], 
+    "IS 1158 - Purple Hollyhock": [
+        214, 
+        114, 
+        176
+    ], 
+    "IS 1308 - Stardust Ballroom": [
+        218, 
+        207, 
+        213
+    ], 
+    "IS 1008 - Mango Tango": [
+        239, 
+        198, 
+        168
+    ], 
+    "IS 1318 - Dusky Mood": [
+        156, 
+        158, 
+        171
+    ], 
+    "IS 0044 - Calliope": [
+        202, 
+        158, 
+        147
+    ], 
+    "IS 0510 - Sacred Spring ": [
+        200, 
+        204, 
+        207
+    ], 
+    "IS 1098 - Bubblegum Pink": [
+        244, 
+        178, 
+        188
+    ], 
+    "IS 0184 - Macadamia Brown": [
+        188, 
+        170, 
+        150
+    ], 
+    "IS 0728 - Celtic Spring": [
+        174, 
+        222, 
+        180
+    ], 
+    "IS 1042 - Peak Season": [
+        255, 
+        221, 
+        201
+    ], 
+    "IS 0658 - Orleans Tune": [
+        158, 
+        214, 
+        231
+    ], 
+    "IS 0378 - Garden Hedge": [
+        202, 
+        196, 
+        172
+    ], 
+    "IS 0394 - High Chief": [
+        192, 
+        183, 
+        142
+    ], 
+    "IS 0987 - Tallow": [
+        244, 
+        212, 
+        174
+    ], 
+    "IS 0534 - Subtle Shadow": [
+        133, 
+        135, 
+        134
+    ], 
+    "IS 0024 - Just About White": [
+        232, 
+        232, 
+        224
+    ], 
+    "IS 1111 - Royal Wedding ": [
+        252, 
+        230, 
+        232
+    ], 
+    "IS 0429 - Pendula Garden": [
+        129, 
+        135, 
+        109
+    ], 
+    "IS 0908 - God-Given": [
+        247, 
+        240, 
+        221
+    ], 
+    "IS 0102 - Earthly Pleasure": [
+        109, 
+        69, 
+        67
+    ], 
+    "IS 0923 - Tiffany Light": [
+        253, 
+        229, 
+        183
+    ], 
+    "IS 0886 - Gold Estate": [
+        156, 
+        129, 
+        76
+    ], 
+    "IS 0159 - Senior Moment": [
+        241, 
+        225, 
+        209
+    ], 
+    "IS 0160 - Kingdom's Keys": [
+        234, 
+        209, 
+        187
+    ], 
+    "IS 0228 - Hannover Hills": [
+        111, 
+        100, 
+        82
+    ], 
+    "IS 0900 - Unforgettably Gold": [
+        176, 
+        136, 
+        77
+    ], 
+    "IS 0519 - Baby Seal": [
+        162, 
+        166, 
+        175
+    ], 
+    "IS 0398 - Island Embrace": [
+        223, 
+        219, 
+        182
+    ], 
+    "IS 1162 - Venetian Rose": [
+        237, 
+        198, 
+        225
+    ], 
+    "IS 1021 - Sweet Buttermilk": [
+        250, 
+        234, 
+        218
+    ], 
+    "IS 0034 - Here Comes the Sun": [
+        239, 
+        210, 
+        194
+    ], 
+    "IS 0765 - Sweetness": [
+        150, 
+        194, 
+        135
+    ], 
+    "IS 1075 - Cherry Blink": [
+        172, 
+        90, 
+        76
+    ], 
+    "IS 0247 - Apple Crisp ": [
+        189, 
+        146, 
+        101
+    ], 
+    "IS 1146 - Morning Shine": [
+        244, 
+        232, 
+        234
+    ], 
+    "IS 0851 - Happy Face": [
+        255, 
+        213, 
+        39
+    ], 
+    "IS 0346 - Northeast Trail": [
+        153, 
+        140, 
+        108
+    ], 
+    "IS 0367 - Chocolate Velvet": [
+        133, 
+        122, 
+        92
+    ], 
+    "IS 0253 - Honey Glow": [
+        223, 
+        195, 
+        156
+    ], 
+    "IS 0196 - Overgrown": [
+        208, 
+        200, 
+        187
+    ], 
+    "IS 1032 - Boredom Buster": [
+        254, 
+        145, 
+        88
+    ], 
+    "IS 0425 - Pale Green Tea": [
+        226, 
+        227, 
+        213
+    ], 
+    "IS 1104 - Valerie": [
+        250, 
+        228, 
+        230
+    ], 
+    "IS 0751 - Green Glass": [
+        176, 
+        188, 
+        150
+    ], 
+    "IS 0100 - Whimsy": [
+        143, 
+        102, 
+        108
+    ], 
+    "IS 0820 - Sign of the Crown": [
+        251, 
+        227, 
+        155
+    ], 
+    "IS 0979 - Livliness": [
+        253, 
+        223, 
+        189
+    ], 
+    "IS 1142 - Vintage Victorian": [
+        226, 
+        160, 
+        174
+    ], 
+    "IS 0779 - Frog Green": [
+        199, 
+        208, 
+        129
+    ], 
+    "IS 0021 - Barely White": [
+        225, 
+        226, 
+        221
+    ], 
+    "IS 1137 - Ode to Joy": [
+        157, 
+        74, 
+        82
+    ], 
+    "IS 1169 - Baby Girl": [
+        219, 
+        184, 
+        206
+    ], 
+    "IS 0529 - Black Licorice": [
+        70, 
+        72, 
+        71
+    ], 
+    "IS 1312 - Southern Belle": [
+        131, 
+        114, 
+        130
+    ], 
+    "IS 0684 - Snow Drift": [
+        226, 
+        238, 
+        234
+    ], 
+    "IS 0611 - Bashful Blue": [
+        115, 
+        150, 
+        208
+    ], 
+    "IS 1237 - Easter Bunny": [
+        236, 
+        229, 
+        236
+    ], 
+    "IS 1176 - Poodle Pink": [
+        238, 
+        206, 
+        229
+    ], 
+    "IS 0116 - Cordova Burgundy": [
+        128, 
+        68, 
+        80
+    ], 
+    "IS 1017 - Summer's End": [
+        219, 
+        152, 
+        109
+    ], 
+    "IS 0809 - Hair Ribbon": [
+        190, 
+        159, 
+        68
+    ], 
+    "IS 0653 - Sea of Atlantis": [
+        115, 
+        164, 
+        196
+    ], 
+    "IS 0922 - Cheesecake": [
+        247, 
+        239, 
+        218
+    ], 
+    "IS 0169 - Fossil Tan": [
+        208, 
+        177, 
+        148
+    ], 
+    "IS 0245 - Caramel Cloud": [
+        211, 
+        178, 
+        137
+    ], 
+    "IS 1199 - Enthroned Above": [
+        175, 
+        150, 
+        179
+    ], 
+    "IS 0739 - Jungle Adventure": [
+        80, 
+        106, 
+        79
+    ], 
+    "IS 0929 - Yellow Bonnet": [
+        246, 
+        243, 
+        228
+    ], 
+    "IS 0272 - Mineral Water": [
+        222, 
+        211, 
+        193
+    ], 
+    "IS 0914 - Child of the Moon": [
+        200, 
+        147, 
+        69
+    ], 
+    "IS 0320 - Floating Island": [
+        237, 
+        229, 
+        210
+    ], 
+    "IS 1141 - Deco Pink": [
+        243, 
+        196, 
+        206
+    ], 
+    "IS 0859 - Daylily Yellow": [
+        247, 
+        240, 
+        211
+    ], 
+    "IS 0947 - Bright Halo": [
+        255, 
+        210, 
+        106
+    ], 
+    "IS 1195 - Rosie Posie": [
+        238, 
+        227, 
+        233
+    ], 
+    "IS 0193 - Alpha Male": [
+        120, 
+        99, 
+        80
+    ], 
+    "IS 1037 - Trumpet Flower": [
+        226, 
+        157, 
+        124
+    ], 
+    "IS 0691 - Paradise": [
+        224, 
+        241, 
+        235
+    ], 
+    "IS 0736 - Mini Green": [
+        165, 
+        199, 
+        174
+    ], 
+    "IS 0142 - Ranch House": [
+        129, 
+        107, 
+        96
+    ], 
+    "IS 0084 - Quiet Pink": [
+        229, 
+        190, 
+        195
+    ], 
+    "IS 1002 - Tea Cookie": [
+        223, 
+        187, 
+        155
+    ], 
+    "IS 1299 - Soul Train": [
+        98, 
+        81, 
+        100
+    ], 
+    "IS 1272 - Angel Kiss": [
+        234, 
+        235, 
+        230
+    ], 
+    "IS 0213 - Coastal Fog": [
+        133, 
+        121, 
+        109
+    ], 
+    "IS 0082 - Rose Shadow": [
+        242, 
+        213, 
+        215
+    ], 
+    "IS 0006 - Little Dove": [
+        233, 
+        224, 
+        207
+    ], 
+    "IS 0437 - Bowling Green": [
+        120, 
+        128, 
+        104
+    ], 
+    "IS 0166 - Pastel Day": [
+        245, 
+        230, 
+        211
+    ], 
+    "IS 0932 - Sun Splashed": [
+        247, 
+        216, 
+        152
+    ], 
+    "IS 1247 - May Mist": [
+        165, 
+        160, 
+        200
+    ], 
+    "IS 0843 - Buttered Popcorn": [
+        241, 
+        203, 
+        16
+    ], 
+    "IS 0687 - Stillwater": [
+        147, 
+        195, 
+        197
+    ], 
+    "IS 0774 - Green Gone Wild": [
+        124, 
+        166, 
+        66
+    ], 
+    "IS 0587 - Atmospheric Pressure": [
+        198, 
+        210, 
+        226
+    ], 
+    "IS 1135 - Glam": [
+        207, 
+        122, 
+        145
+    ], 
+    "IS 0570 - Grey Locks": [
+        119, 
+        111, 
+        100
+    ], 
+    "IS 0674 - Sarah's Garden": [
+        48, 
+        174, 
+        196
+    ], 
+    "IS 0424 - Monogram": [
+        98, 
+        96, 
+        81
+    ], 
+    "IS 1074 - It's My Party": [
+        205, 
+        122, 
+        106
+    ], 
+    "IS 0934 - Lemon Essence": [
+        226, 
+        176, 
+        87
+    ], 
+    "IS 1100 - Heart to Heart": [
+        213, 
+        98, 
+        105
+    ], 
+    "IS 0754 - Colleen Green": [
+        234, 
+        237, 
+        218
+    ], 
+    "IS 1188 - Maiden of the Mist": [
+        237, 
+        220, 
+        236
+    ], 
+    "IS 0121 - Savanna": [
+        139, 
+        86, 
+        78
+    ], 
+    "IS 0256 - Crazy Horse": [
+        169, 
+        126, 
+        83
+    ], 
+    "IS 0528 - Greybeard": [
+        106, 
+        110, 
+        113
+    ], 
+    "IS 0399 - Sawgrass Cottage": [
+        212, 
+        207, 
+        165
+    ], 
+    "IS 0278 - Barbery Sand": [
+        226, 
+        214, 
+        192
+    ], 
+    "IS 1224 - Fragrant Snowbell": [
+        214, 
+        200, 
+        215
+    ], 
+    "IS 0017 - Luna Moona": [
+        233, 
+        233, 
+        225
+    ], 
+    "IS 0186 - Christmas Ornament": [
+        115, 
+        96, 
+        79
+    ], 
+    "IS 0709 - Calmness": [
+        115, 
+        174, 
+        154
+    ], 
+    "IS 0832 - Lemon Sponge Cake": [
+        247, 
+        237, 
+        178
+    ], 
+    "IS 1252 - Lavender Bliss": [
+        209, 
+        195, 
+        220
+    ], 
+    "IS 1242 - Gorgeous Hydrangea": [
+        170, 
+        152, 
+        204
+    ], 
+    "IS 0844 - Yolk": [
+        238, 
+        200, 
+        11
+    ], 
+    "IS 0342 - Velum Smoke": [
+        215, 
+        208, 
+        189
+    ], 
+    "IS 1029 - Pale Blossom": [
+        254, 
+        226, 
+        202
+    ], 
+    "IS 1139 - Tutu": [
+        246, 
+        221, 
+        224
+    ], 
+    "IS 0845 - Lemon Stick": [
+        246, 
+        244, 
+        221
+    ], 
+    "IS 0442 - Dowager": [
+        138, 
+        144, 
+        134
+    ], 
+    "IS 0671 - Egg Blue": [
+        196, 
+        231, 
+        233
+    ], 
+    "IS 0328 - Land of Trees": [
+        223, 
+        213, 
+        186
+    ], 
+    "IS 0910 - Western Sky": [
+        248, 
+        220, 
+        170
+    ], 
+    "IS 0239 - Tailored Tan": [
+        191, 
+        162, 
+        132
+    ], 
+    "IS 0301 - Corinthian Pillar": [
+        225, 
+        210, 
+        179
+    ], 
+    "IS 0662 - Ocean Spray": [
+        8, 
+        90, 
+        127
+    ], 
+    "IS 0319 - Herald's Trumpet": [
+        143, 
+        121, 
+        84
+    ], 
+    "IS 1300 - Winged Victory": [
+        237, 
+        227, 
+        226
+    ], 
+    "IS 1046 - Ballet Cream": [
+        248, 
+        136, 
+        96
+    ], 
+    "IS 0327 - Tawny Daylily": [
+        235, 
+        228, 
+        210
+    ], 
+    "IS 0712 - Teal Teat": [
+        218, 
+        242, 
+        228
+    ], 
+    "IS 0290 - Key Keeper": [
+        166, 
+        143, 
+        102
+    ], 
+    "IS 1114 - A Lot of Love": [
+        252, 
+        186, 
+        196
+    ], 
+    "IS 1292 - Plum Perfect": [
+        92, 
+        80, 
+        94
+    ], 
+    "IS 0449 - Cannon Ball": [
+        157, 
+        162, 
+        155
+    ], 
+    "IS 0856 - Broadway Lights": [
+        255, 
+        221, 
+        121
+    ], 
+    "IS 1064 - Mystic Tulip": [
+        247, 
+        181, 
+        167
+    ], 
+    "IS 0890 - Dubloon": [
+        212, 
+        185, 
+        140
+    ], 
+    "IS 0855 - Butter Tart": [
+        255, 
+        232, 
+        156
+    ], 
+    "IS 0163 - Camel Train": [
+        179, 
+        147, 
+        124
+    ], 
+    "IS 0926 - Perky Yellow": [
+        240, 
+        201, 
+        134
+    ], 
+    "IS 0118 - Miniature Posey": [
+        228, 
+        193, 
+        189
+    ], 
+    "IS 1047 - Starfish": [
+        236, 
+        102, 
+        67
+    ], 
+    "IS 1192 - Cut Velvet": [
+        181, 
+        148, 
+        201
+    ], 
+    "IS 0527 - London Road": [
+        131, 
+        139, 
+        141
+    ], 
+    "IS 0107 - Prosperity": [
+        148, 
+        101, 
+        109
+    ], 
+    "IS 1275 - High Style": [
+        174, 
+        180, 
+        216
+    ], 
+    "IS 0067 - Lover's Kiss": [
+        144, 
+        72, 
+        73
+    ], 
+    "IS 0264 - Palest of Lemon": [
+        232, 
+        216, 
+        190
+    ], 
+    "IS 0384 - Cheese Please": [
+        237, 
+        229, 
+        206
+    ], 
+    "IS 0300 - Ivory Parchment": [
+        238, 
+        227, 
+        205
+    ], 
+    "IS 0597 - Himalaya Sky": [
+        127, 
+        151, 
+        195
+    ], 
+    "IS 0761 - Maison Verte": [
+        227, 
+        239, 
+        217
+    ], 
+    "IS 0211 - Light Lichen": [
+        193, 
+        185, 
+        172
+    ], 
+    "IS 0756 - Meadow Grass": [
+        197, 
+        214, 
+        178
+    ], 
+    "IS 0986 - Mineral Glow": [
+        248, 
+        228, 
+        203
+    ], 
+    "IS 0601 - Cool Sky": [
+        221, 
+        228, 
+        238
+    ], 
+    "IS 1058 - Pale Terra": [
+        234, 
+        173, 
+        154
+    ], 
+    "IS 0904 - Sunday Afternoon": [
+        241, 
+        211, 
+        159
+    ], 
+    "IS 0483 - Indulgence": [
+        181, 
+        197, 
+        196
+    ], 
+    "IS 0489 - Whirlwind": [
+        188, 
+        197, 
+        196
+    ], 
+    "IS 0589 - Celestial Horizon": [
+        130, 
+        151, 
+        182
+    ], 
+    "IS 0826 - Banana Custard": [
+        251, 
+        240, 
+        194
+    ], 
+    "IS 0521 - Dolphin Dream": [
+        112, 
+        115, 
+        124
+    ], 
+    "IS 1069 - Pink Touch": [
+        250, 
+        228, 
+        217
+    ], 
+    "IS 0578 - Philosophically Speaking": [
+        86, 
+        82, 
+        71
+    ], 
+    "IS 1128 - Minuette": [
+        210, 
+        124, 
+        149
+    ], 
+    "IS 0490 - Beacon Fog": [
+        162, 
+        173, 
+        175
+    ], 
+    "IS 0008 - Casa Blanca": [
+        243, 
+        236, 
+        217
+    ], 
+    "IS 0478 - Singing in the Rain": [
+        148, 
+        160, 
+        156
+    ], 
+    "IS 0650 - Bridgewater Bay": [
+        193, 
+        217, 
+        227
+    ], 
+    "IS 0791 - Origin": [
+        217, 
+        214, 
+        171
+    ], 
+    "IS 1001 - Cheddar Corn": [
+        242, 
+        213, 
+        183
+    ], 
+    "IS 0602 - Fluid Blue": [
+        199, 
+        214, 
+        237
+    ], 
+    "IS 1261 - Childish Wonder": [
+        170, 
+        171, 
+        217
+    ], 
+    "IS 0619 - Honky Tonk Blue": [
+        81, 
+        111, 
+        147
+    ], 
+    "IS 0404 - Translucent Vision": [
+        228, 
+        230, 
+        209
+    ], 
+    "IS 0678 - Luxor Blue": [
+        192, 
+        233, 
+        229
+    ], 
+    "IS 1099 - Dimple": [
+        229, 
+        132, 
+        143
+    ], 
+    "IS 0680 - Andes Sky": [
+        128, 
+        216, 
+        217
+    ], 
+    "IS 0283 - Historic Town": [
+        164, 
+        142, 
+        105
+    ], 
+    "IS 0440 - Pale Loden": [
+        206, 
+        211, 
+        204
+    ]
+}
