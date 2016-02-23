@@ -6,7 +6,7 @@ from colormath.color_diff import delta_e_cie2000
 
 @click.command()
 @click.option('--nbest', default=3, help='Amount of best result to print.')
-@click.option('--colorsdb', default='colors.json', help='Colors datafile to use.')
+@click.option('--colorsdb', default='colors_tambur.json', help='Colors datafile to use.')
 @click.option('-g', '--green', required=True, type=click.IntRange(0, 255), help='Red value')
 @click.option('-r', '--red', required=True, type=click.IntRange(0, 255), help='Green value')
 @click.option('-b', '--blue', required=True, type=click.IntRange(0, 255), help='Blue value')
