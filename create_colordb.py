@@ -1,14 +1,11 @@
 import os
 import json
-import click
 from PIL import Image
 
 COLOR_PATH = 'colors'
 
 
-@click.command()
-@click.option('--nbest', default=3, help='Amount of best result to print.')
-def gen_colorsdb(path, outfile):
+def gen_colorsdb():
     colors = {}
     for fn in [x for x in os.listdir(COLOR_PATH) if x.endswith('.jpg')]:
         full_fn = os.path.join(COLOR_PATH, fn)
